@@ -1,0 +1,4627 @@
+1
+00:00:06,656 --> 00:00:08,960
+It's not none of this and she really will be from the
+
+2
+00:00:09,472 --> 00:00:14,080
+There's two books to read just came out the stack and dispute plan on both of which were
+
+3
+00:00:14,592 --> 00:00:17,408
+Partially put together until 7 or so we did here
+
+4
+00:00:17,664 --> 00:00:19,712
+So this would be suffice going into the next book
+
+5
+00:00:20,480 --> 00:00:22,016
+The title yet
+
+6
+00:00:22,272 --> 00:00:26,368
+How to deal with issues of design in philosophy and artificial intelligence is
+
+7
+00:00:26,624 --> 00:00:29,696
+Particular take on artificial intelligence not as something that
+
+8
+00:00:30,208 --> 00:00:33,536
+Exist in a kind of abstracted form of symbolic logic
+
+9
+00:00:33,792 --> 00:00:37,120
+Realm of pure Minds mathematics
+
+10
+00:00:37,376 --> 00:00:42,496
+But rather something that exists only in the sense it which is embodied instantiated materialized
+
+11
+00:00:42,752 --> 00:00:46,080
+Particular kinds of ways and how it is it those that instantiation
+
+12
+00:00:46,848 --> 00:00:50,944
+Is Koh constituted but whatever form of intelligence we might identify
+
+13
+00:00:51,456 --> 00:00:53,248
+Did Mike I work there
+
+14
+00:00:53,504 --> 00:00:57,856
+Some of the things that we will be working through I have listed here but no no
+
+15
+00:00:58,112 --> 00:00:58,880
+Total promises
+
+16
+00:01:02,976 --> 00:01:03,488
+Go
+
+17
+00:01:04,256 --> 00:01:09,632
+Contextualize even some of the other things we've been talking about
+
+18
+00:01:09,888 --> 00:01:14,240
+And thinking of a guy perhaps in relationship to the previous book on the stack
+
+19
+00:01:14,496 --> 00:01:17,568
+You certainly have to be understood as a certain
+
+20
+00:01:18,592 --> 00:01:24,736
+Conversion of what we called planetary scale computation the way it works at different scales
+
+21
+00:01:25,504 --> 00:01:31,392
+Energy and mineral Source in Grid Subterranean Cloud infrastructure Urban software and service privatization
+
+22
+00:01:33,440 --> 00:01:39,584
+Interfaces drawing my documentation of the hand I directly dissolved into objects users goes over
+
+23
+00:01:39,840 --> 00:01:40,352
+Outline
+
+24
+00:01:40,864 --> 00:01:47,008
+Myself quantification or and also exploded into the arrival of Legions of sensors algorithms in
+
+25
+00:01:47,264 --> 00:01:49,824
+Certain extent that it existed
+
+26
+00:01:50,080 --> 00:01:51,104
+This level of the user
+
+27
+00:01:51,360 --> 00:01:54,432
+Within the stock model but not only that really at these other five layers
+
+28
+00:01:55,712 --> 00:02:00,832
+So pitiful and design or should I say we might have to start with the city as a pen
+
+29
+00:02:01,088 --> 00:02:03,648
+Mediary I serve it to medium
+
+30
+00:02:03,904 --> 00:02:07,744
+Level scale by which was supposed to work with your work up and backwards in this as well
+
+31
+00:02:08,000 --> 00:02:11,328
+It's a first-person pulmonary definition so weird
+
+32
+00:02:11,584 --> 00:02:12,608
+Looks impossible
+
+33
+00:02:13,120 --> 00:02:14,656
+Misunderstandings are the way right away
+
+34
+00:02:15,168 --> 00:02:21,056
+Crystal was talking to cities in this way if something is it kind of is First Source of provisional settlement organized around
+
+35
+00:02:21,568 --> 00:02:22,848
+Some form of agriculture
+
+36
+00:02:24,128 --> 00:02:24,640
+Provision
+
+37
+00:02:25,408 --> 00:02:26,432
+And it says initial
+
+38
+00:02:26,944 --> 00:02:28,736
+Culinary geoengineering
+
+39
+00:02:29,504 --> 00:02:33,088
+In which ways in which we reside into as a node on a horizon
+
+40
+00:02:33,856 --> 00:02:35,648
+Oriental people
+
+41
+00:02:36,160 --> 00:02:42,304
+And things as they migration flow that is weird looking at the city first visited many capsulating megastructures would hold things in
+
+42
+00:02:42,560 --> 00:02:43,840
+Play some second is Impreza
+
+43
+00:02:44,352 --> 00:02:47,424
+Is a throughput point that would accelerate or decelerate things
+
+44
+00:02:47,680 --> 00:02:49,472
+As they move through them
+
+45
+00:02:49,728 --> 00:02:50,752
+Lester the particular
+
+46
+00:02:51,264 --> 00:02:53,824
+Orientation of the city's wayfinding interfaces
+
+47
+00:02:55,360 --> 00:03:00,480
+Intercity to find in this way with Prospectors mixed wrong mixing from I don't know
+
+48
+00:03:00,736 --> 00:03:02,016
+Public health planning
+
+49
+00:03:02,272 --> 00:03:03,808
+Supply chain Logistics
+
+50
+00:03:05,088 --> 00:03:10,720
+So far in infrastructure for living and non-living matter to consume itself
+
+51
+00:03:11,232 --> 00:03:13,280
+And for some forms of matter
+
+52
+00:03:13,792 --> 00:03:17,120
+Some vulgar to achieve and Hound something like Cynthia
+
+53
+00:03:17,376 --> 00:03:19,936
+Intelligence and even Sapient intelligence and some syrup
+
+54
+00:03:20,448 --> 00:03:22,496
+All of which in turn and in various ways
+
+55
+00:03:23,008 --> 00:03:24,544
+Where to remake the city
+
+56
+00:03:25,056 --> 00:03:26,336
+In their own image
+
+57
+00:03:28,640 --> 00:03:34,784
+It might take about the server account and going to buy things one of the things we've been working on his deep address projects going for what I'm looking at the
+
+58
+00:03:35,040 --> 00:03:39,136
+Theoretical address will say some IPv6 which is next Generation internet addressing system
+
+59
+00:03:39,648 --> 00:03:41,696
+What's 128 bit string
+
+60
+00:03:42,208 --> 00:03:45,024
+DC Universe we never run out of ipv4 addresses this
+
+61
+00:03:45,536 --> 00:03:51,680
+Internet on now which is a theoretical 16-bit string
+
+62
+00:03:51,936 --> 00:03:52,704
+Impossible addresses
+
+63
+00:03:53,728 --> 00:03:58,592
+128 strings for the back of the
+
+64
+00:03:58,848 --> 00:04:03,456
+Envelope calculation how to works that works out to something like 10 to the 23
+
+65
+00:04:03,968 --> 00:04:04,480
+Addresses
+
+66
+00:04:04,736 --> 00:04:05,504
+Per person
+
+67
+00:04:06,784 --> 00:04:07,296
+Text request
+
+68
+00:04:09,088 --> 00:04:13,440
+Level of the granularity by which something like a ubiquitous computing
+
+69
+00:04:13,696 --> 00:04:14,720
+Might actually operate
+
+70
+00:04:14,976 --> 00:04:16,256
+Far below and above
+
+71
+00:04:16,768 --> 00:04:19,583
+The kind of attitude marantika metric sing that dark
+
+72
+00:04:20,095 --> 00:04:21,631
+Conventional internet-of-things discourse work
+
+73
+00:04:21,887 --> 00:04:27,519
+So we're interested in this question about how it is it synthetic and augmented intelligence by operator the urban scale
+
+74
+00:04:28,543 --> 00:04:34,687
+At that level of granularity in all the way on not just the things that appear to us in the scaling which were used to
+
+75
+00:04:35,199 --> 00:04:36,479
+Addressing a man being a good wife
+
+76
+00:04:37,759 --> 00:04:43,903
+Also will say just the purposes of this conjunction of some discussions what we mean exactly by artificial intelligence
+
+77
+00:04:45,439 --> 00:04:46,207
+Persuade some
+
+78
+00:04:46,975 --> 00:04:53,119
+Misinterpretations we would we Define or would propose a version of intelligence in this way to find this as a
+
+79
+00:04:53,375 --> 00:04:59,263
+Is the president the way that matter organizes itself into some form of durable complexity
+
+80
+00:04:59,775 --> 00:05:02,847
+The special form of that complexity being the city
+
+81
+00:05:03,359 --> 00:05:06,431
+I got settled accumulation of betrayal intelligence both human and
+
+82
+00:05:06,943 --> 00:05:07,455
+Until
+
+83
+00:05:07,711 --> 00:05:12,319
+As AI becomes more sophisticated what does it its own design project
+
+84
+00:05:12,575 --> 00:05:13,599
+What should it be
+
+85
+00:05:14,367 --> 00:05:20,511
+Till we see in the one-handed episode of weight of a new anime matter to the skill and also me to dissolve
+
+86
+00:05:21,535 --> 00:05:22,815
+Constructed into
+
+87
+00:05:23,327 --> 00:05:25,887
+Intimate Turnberry scales in various ways
+
+88
+00:05:26,143 --> 00:05:28,191
+The same thing
+
+89
+00:05:29,215 --> 00:05:35,359
+If we make some distinctions then between robotics on the one hand programmable matter on the other hand
+
+90
+00:05:35,615 --> 00:05:37,663
+Culinary materialism on the third hand
+
+91
+00:05:38,431 --> 00:05:40,479
+Tangible media on the fourth hand
+
+92
+00:05:40,991 --> 00:05:43,295
+So is to bring them together backing
+
+93
+00:05:44,575 --> 00:05:46,367
+Icai
+
+94
+00:05:46,623 --> 00:05:47,647
+Not as something something
+
+95
+00:05:48,159 --> 00:05:48,927
+Might happen
+
+96
+00:05:49,183 --> 00:05:49,695
+Future
+
+97
+00:05:49,951 --> 00:05:50,975
+The thing that happens after
+
+98
+00:05:51,487 --> 00:05:53,023
+Some great Messianic moment but is
+
+99
+00:05:53,279 --> 00:05:55,583
+Something that we see all around us all the time
+
+100
+00:05:55,839 --> 00:06:01,983
+Terms of a net in the form of an in terms of a kind of synthetic reason that we are always
+
+101
+00:06:02,239 --> 00:06:04,543
+We are in the process of Designing and designating
+
+102
+00:06:05,055 --> 00:06:06,079
+In which pitch
+
+103
+00:06:06,335 --> 00:06:10,431
+Becomes too in its own way contribute to the formulation of our own designation
+
+104
+00:06:10,687 --> 00:06:11,711
+Of ourselves
+
+105
+00:06:11,967 --> 00:06:12,735
+End of it
+
+106
+00:06:12,991 --> 00:06:13,503
+Intern
+
+107
+00:06:14,527 --> 00:06:18,879
+We also see it in it what philosophy of Mind was the other mind problem
+
+108
+00:06:19,135 --> 00:06:20,671
+That we might
+
+109
+00:06:21,695 --> 00:06:22,207
+Communicate
+
+110
+00:06:22,463 --> 00:06:25,023
+Identifying be identified by that intelligence
+
+111
+00:06:25,535 --> 00:06:29,631
+One with which we can only share very at least very partial
+
+112
+00:06:30,143 --> 00:06:30,655
+World
+
+113
+00:06:31,167 --> 00:06:34,495
+Just don't we're just not invited in the world in the same way we do
+
+114
+00:06:34,751 --> 00:06:37,567
+The terms of those communicator
+
+115
+00:06:38,847 --> 00:06:39,871
+Sensory questions
+
+116
+00:06:40,383 --> 00:06:41,919
+Sweeping
+
+117
+00:06:42,175 --> 00:06:44,479
+Lamb salerosa Clark's 2001
+
+118
+00:06:46,271 --> 00:06:46,783
+Communication
+
+119
+00:06:48,063 --> 00:06:52,415
+I said we try to Cai not in terms of how we think that we stink
+
+120
+00:06:52,927 --> 00:06:54,463
+Image of ourselves
+
+121
+00:06:55,231 --> 00:06:59,327
+Virtual or artificial human cognition
+
+122
+00:06:59,583 --> 00:07:00,095
+Only
+
+123
+00:07:01,119 --> 00:07:07,007
+But as something that has a way in which matter thinks and embodies another spot in a larger
+
+124
+00:07:07,263 --> 00:07:08,799
+Shared continuum
+
+125
+00:07:09,311 --> 00:07:13,151
+Of material intelligence up which our own accomplishments of sapience alright
+
+126
+00:07:13,407 --> 00:07:13,919
+Particularly
+
+127
+00:07:14,175 --> 00:07:16,479
+Are one particular form genre
+
+128
+00:07:19,295 --> 00:07:24,927
+Right and social situation these than once more bringing these together into something like a common frame with assertive
+
+129
+00:07:25,183 --> 00:07:26,719
+Projecting some way across
+
+130
+00:07:26,975 --> 00:07:28,511
+Stock thesis which proposes
+
+131
+00:07:28,767 --> 00:07:30,303
+Own way of particular kind of
+
+132
+00:07:30,559 --> 00:07:31,839
+Design model for
+
+133
+00:07:32,095 --> 00:07:34,911
+Political geography term to the question of planetary scale
+
+134
+00:07:35,167 --> 00:07:35,679
+Mutation
+
+135
+00:07:36,191 --> 00:07:42,079
+Subway sandwiches of starting with the technology working from the inside out to the governance towards the questions of sovereign chain-smoking cell
+
+136
+00:07:42,335 --> 00:07:43,615
+Where we want to locate
+
+137
+00:07:44,127 --> 00:07:46,687
+The AI would locate to AI locate us
+
+138
+00:07:46,943 --> 00:07:48,991
+Any different skills is not all the same
+
+139
+00:07:49,503 --> 00:07:51,039
+We want to hold them apart in a certain
+
+140
+00:07:52,319 --> 00:07:58,463
+Note to the design question so quickly begin to sort of at its beginning with some disclaimers were talking about the rise and says no
+
+141
+00:07:58,719 --> 00:08:00,511
+Network Platforms in a physical world
+
+142
+00:08:01,279 --> 00:08:07,423
+And services geared towards an it in towards as we wanted differentiate this from certain kind of conventional smart cities discourse it
+
+143
+00:08:07,679 --> 00:08:09,471
+See the rise of those in terms of Justice
+
+144
+00:08:09,727 --> 00:08:13,567
+Prosaic forms of consumption in marketing pedestrian flow optimization
+
+145
+00:08:15,103 --> 00:08:21,247
+I'm not I hope talking about son of hybrid of The Truman Show Alpha bills of the soixante smartcat
+
+146
+00:08:21,503 --> 00:08:24,063
+Controlling production variations this is not really what interest to me
+
+147
+00:08:24,319 --> 00:08:26,879
+It's not about the way in which these Technologies my
+
+148
+00:08:27,391 --> 00:08:29,183
+Amplify or optimize
+
+149
+00:08:30,207 --> 00:08:34,303
+He's going to dog sit relation to the world with the way in which that they would crack open other
+
+150
+00:08:34,815 --> 00:08:35,583
+Other
+
+151
+00:08:37,375 --> 00:08:43,519
+Again to jump I didn't we would ask then after something like intelligent how is it that in this conjunction of computer
+
+152
+00:08:43,775 --> 00:08:48,127
+Location of an algorithmic mechanism of computation becomes a kind of solvent
+
+153
+00:08:49,919 --> 00:08:56,063
+Are the particular form of algorithmic Reason in various kinds of matter we take it for example the computation was to
+
+154
+00:08:56,319 --> 00:08:57,855
+Discovered more than it was invented
+
+155
+00:08:59,647 --> 00:09:05,791
+And at the algorithmic Jenna two processes that we might find our intrinsic to The Wider unfolding
+
+156
+00:09:06,047 --> 00:09:06,559
+The world
+
+157
+00:09:07,071 --> 00:09:10,399
+Today's meteor computational appliances
+
+158
+00:09:10,911 --> 00:09:14,495
+I'm nowhere near as sophisticated and efficient as those that proceed
+
+159
+00:09:15,007 --> 00:09:15,519
+Homosapien
+
+160
+00:09:16,543 --> 00:09:22,687
+We take it the computations one of the ways that matter whatever format to use a television series procedural abstraction that we make tap in
+
+161
+00:09:22,943 --> 00:09:23,967
+To Wrangle
+
+162
+00:09:24,479 --> 00:09:26,527
+On some kind of provisional level one way or another
+
+163
+00:09:26,783 --> 00:09:32,927
+And as such Sapient brain tissue is one kind of matter that has achieved intelligence insert
+
+164
+00:09:33,183 --> 00:09:37,023
+Both some of which both clearly are and other clearly not
+
+165
+00:09:37,535 --> 00:09:39,327
+Computational in any
+
+166
+00:09:39,583 --> 00:09:40,607
+Conventional center
+
+167
+00:09:41,887 --> 00:09:48,031
+At the largest can we take it that the solute that's solution dissolution of synthetic computation software
+
+168
+00:09:48,287 --> 00:09:50,079
+In other words into the urban fabric
+
+169
+00:09:50,847 --> 00:09:56,991
+Provides for a landscape of inorganic forms to sort of distributed intelligence because it
+
+170
+00:09:57,247 --> 00:10:00,831
+Provide those things with the capacity for themselves
+
+171
+00:10:01,087 --> 00:10:02,111
+For abstraction
+
+172
+00:10:02,879 --> 00:10:03,647
+I'll talk a bit about
+
+173
+00:10:04,159 --> 00:10:04,927
+In a month
+
+174
+00:10:05,183 --> 00:10:07,231
+We see intelligent in this way as a
+
+175
+00:10:07,487 --> 00:10:09,791
+Form of something that accomplishes abstraction
+
+176
+00:10:10,303 --> 00:10:11,327
+Computation that is
+
+177
+00:10:12,095 --> 00:10:14,399
+Intelligent and computation then it's a kind of
+
+178
+00:10:14,655 --> 00:10:15,935
+Mechanism of
+
+179
+00:10:16,191 --> 00:10:17,983
+Attraction how matter abstraction
+
+180
+00:10:20,287 --> 00:10:23,359
+This principle should account for two
+
+181
+00:10:23,871 --> 00:10:30,015
+Related but different understandings one would recognize as I say that intelligence and
+
+182
+00:10:30,271 --> 00:10:30,783
+College for that matter
+
+183
+00:10:32,575 --> 00:10:38,463
+Is always distributed among multiple positions and forms of life both similar and dissimilar to one another
+
+184
+00:10:38,975 --> 00:10:45,119
+That no single neuroanatomical disposition as a privilege Monopoly on how to think
+
+185
+00:10:45,631 --> 00:10:46,143
+Intelligent
+
+186
+00:10:47,423 --> 00:10:53,055
+What might qualify as general intelligence is not duty-bound to BC's or file
+
+187
+00:10:53,311 --> 00:10:55,359
+In his capacity for abstract
+
+188
+00:10:56,127 --> 00:11:00,479
+We might say no ways of thinking of it in terms of the ability of any organism however primitive
+
+189
+00:11:01,247 --> 00:11:04,575
+To map the surroundings is this function
+
+190
+00:11:04,831 --> 00:11:06,367
+Particularly in relationship
+
+191
+00:11:06,623 --> 00:11:07,903
+To the basic terms
+
+192
+00:11:08,415 --> 00:11:09,695
+A friend food
+
+193
+00:11:09,951 --> 00:11:10,719
+Workflow
+
+194
+00:11:11,231 --> 00:11:14,815
+This is a from primordial a distraction from which we do not graduate
+
+195
+00:11:15,583 --> 00:11:17,375
+So much as we learn to develop
+
+196
+00:11:17,631 --> 00:11:19,679
+Into something like a more formal
+
+197
+00:11:19,935 --> 00:11:21,471
+Reason and its local
+
+198
+00:11:21,727 --> 00:11:22,239
+Human
+
+199
+00:11:22,495 --> 00:11:23,007
+Variation
+
+200
+00:11:26,847 --> 00:11:27,615
+Protozoa
+
+201
+00:11:28,127 --> 00:11:33,247
+Silly and figuring out what's on non going on around at this is basic kind of mapping is this
+
+202
+00:11:33,759 --> 00:11:35,295
+I think the primordial formula
+
+203
+00:11:35,551 --> 00:11:38,623
+Mapping function of attraction
+
+204
+00:11:39,647 --> 00:11:45,791
+Is not been through an early stage through which things pass on their way to more complex forms of intelligence gets rather Jen
+
+205
+00:11:46,047 --> 00:11:48,095
+General principle of that complexification
+
+206
+00:11:49,375 --> 00:11:53,727
+As I say it like the protozoan the Cilia feeling about the weather out there
+
+207
+00:11:53,983 --> 00:11:57,567
+Or like humans looking and tasting and imagining patterns
+
+208
+00:11:58,335 --> 00:12:04,479
+Today's high or sometimes augmented by various Technologies machine cognition sensation in Vision that allowed them
+
+209
+00:12:04,735 --> 00:12:06,783
+I want to see incense the world out there
+
+210
+00:12:07,295 --> 00:12:13,183
+I do abstract forms of mechanically embodied intelligence both deliberately program for them and
+
+211
+00:12:13,439 --> 00:12:14,719
+Emerging unexpectedly
+
+212
+00:12:17,023 --> 00:12:18,303
+DeSoto
+
+213
+00:12:19,839 --> 00:12:21,631
+Emergent particular
+
+214
+00:12:21,887 --> 00:12:25,727
+Form of a certain kind of distribution of the sensible if you like
+
+215
+00:12:26,239 --> 00:12:28,031
+Shipping certain kinds of
+
+216
+00:12:28,543 --> 00:12:29,567
+Pinterest humor
+
+217
+00:12:30,079 --> 00:12:36,223
+Jakarta merleau-ponty if you like back again I want to go to think of these really up to the rest of the talk to if I discuss with you some of these
+
+218
+00:12:36,479 --> 00:12:37,503
+First
+
+219
+00:12:37,759 --> 00:12:38,527
+A kind of thinking
+
+220
+00:12:39,295 --> 00:12:44,671
+First will discuss with her challenge of conventional touring test models humanistic models of thought that would that would
+
+221
+00:12:45,439 --> 00:12:48,767
+Measure them for their epistemological and practical dangers
+
+222
+00:12:50,303 --> 00:12:56,447
+From the deep into structure of their effects looked to be today gather under the name of a on will shift done or what
+
+223
+00:12:56,703 --> 00:12:58,239
+Counselors thinking but what counts is Arkansas
+
+224
+00:12:58,495 --> 00:12:59,263
+Your name is Will
+
+225
+00:12:59,775 --> 00:13:05,919
+Will try to evade the presumption that when will identify and recognize the threshold of an artificial intelligence to the
+
+226
+00:13:06,175 --> 00:13:07,967
+Said that it's recognizable similar to our own
+
+227
+00:13:09,247 --> 00:13:11,039
+Second Skin
+
+228
+00:13:11,551 --> 00:13:17,439
+Epidermal media synthetic skin in the design convergence of natural sensation and machine sensing
+
+229
+00:13:18,719 --> 00:13:24,607
+For animal skins like around but also put Riven skins and surface is an interface isn't implications of this for what
+
+230
+00:13:24,863 --> 00:13:26,399
+We may have one called rolling
+
+231
+00:13:27,679 --> 00:13:28,959
+And lastly Machine Vision
+
+232
+00:13:29,727 --> 00:13:30,495
+Camouflage
+
+233
+00:13:30,751 --> 00:13:32,543
+The inverse uncanny valley
+
+234
+00:13:33,311 --> 00:13:35,103
+Artificially intelligent paranoia
+
+235
+00:13:35,615 --> 00:13:36,383
+And I'm a female
+
+236
+00:13:38,175 --> 00:13:38,943
+First
+
+237
+00:13:40,991 --> 00:13:42,271
+Thinking
+
+238
+00:13:43,039 --> 00:13:44,575
+Carini's you know
+
+239
+00:13:46,879 --> 00:13:53,023
+Trinis you know proposed his test as a variation on the popular parlor game the imitation game in which two hidden contest
+
+240
+00:13:53,535 --> 00:13:54,303
+He woman
+
+241
+00:13:54,559 --> 00:13:55,327
+Play hooray
+
+242
+00:13:55,839 --> 00:14:00,959
+And a man player be hard to convince a third player that he or she is a woman
+
+243
+00:14:01,471 --> 00:14:03,775
+By the written responses to Leading question
+
+244
+00:14:04,287 --> 00:14:06,591
+To win one of the players must
+
+245
+00:14:07,103 --> 00:14:10,687
+Convincingly be who they really are whereas the other must try to pass
+
+246
+00:14:11,199 --> 00:14:12,223
+As another gender
+
+247
+00:14:12,479 --> 00:14:17,599
+Entering sasak 9050 would you rather than centimeters or whatever computer took the place of player a
+
+248
+00:14:19,391 --> 00:14:25,535
+Is really suggesting it was just a waste of computer take a picture of a person to try to suggest they are vacuuming but they would try to pretend to be
+
+249
+00:14:25,791 --> 00:14:26,303
+Woman
+
+250
+00:14:27,327 --> 00:14:33,215
+Literal reading with the mathematician Turing his health also has a pass
+
+251
+00:14:33,983 --> 00:14:40,127
+In his case is a straight man in society to criminalize homosexuality and upon the discovery that he was not what he appeared to be
+
+252
+00:14:40,895 --> 00:14:43,711
+He was forced to undergo horrific medical experiments
+
+253
+00:14:44,479 --> 00:14:45,247
+Treatments
+
+254
+00:14:45,759 --> 00:14:47,551
+Known as chemical castration
+
+255
+00:14:48,575 --> 00:14:51,903
+How to make the physical and emotional pain is too great and he committed suicide
+
+256
+00:14:52,671 --> 00:14:53,951
+The episode being
+
+257
+00:14:54,207 --> 00:14:59,327
+Grotesque tribute to a man whose recent contribution to defeating Hitler's military was still estate Secret
+
+258
+00:15:00,863 --> 00:15:02,655
+Turing suicide was only recently given up
+
+259
+00:15:02,911 --> 00:15:05,727
+Posthumous pardon but tens of thousands of other
+
+260
+00:15:05,983 --> 00:15:07,775
+British man sentence under similar laws
+
+261
+00:15:08,031 --> 00:15:09,055
+Up to date have not
+
+262
+00:15:10,591 --> 00:15:16,735
+One notes I think I kind of sour ironic correspondence between asking an AI to pass that
+
+263
+00:15:16,991 --> 00:15:18,783
+Testing order qualifies intelligent
+
+264
+00:15:19,039 --> 00:15:20,319
+Cast of the human intelligence
+
+265
+00:15:21,343 --> 00:15:23,135
+Return Zone need to hide his own
+
+266
+00:15:23,647 --> 00:15:25,951
+I have a sexuality to pass is a straight man
+
+267
+00:15:27,231 --> 00:15:32,351
+The demands of both blocks are unnecessary and profoundly unfair and it's for all passing
+
+268
+00:15:32,863 --> 00:15:34,143
+The performance is success
+
+269
+00:15:34,399 --> 00:15:36,959
+Orfalea reveals more about the audience
+
+270
+00:15:37,215 --> 00:15:37,983
+In about the
+
+271
+00:15:40,543 --> 00:15:45,919
+In other in other places of some infections policing the imitation game is a matter of life and death
+
+272
+00:15:47,199 --> 00:15:51,807
+Photos of Ridley Scott's film version of Do Androids Dream of Electric Sheep Blade Runner
+
+273
+00:15:52,575 --> 00:15:56,159
+It's okay good novel hinges on the voight-kampff empathy test
+
+274
+00:15:56,671 --> 00:15:57,439
+What you differentiate
+
+275
+00:15:57,695 --> 00:15:58,719
+Humans from Africa
+
+276
+00:15:59,231 --> 00:16:04,607
+In this narrative replicants are throttled in two important ways first base fire at the Disco
+
+277
+00:16:04,863 --> 00:16:08,447
+A few years and two they have ostensibly a rather diminished capacity
+
+278
+00:16:08,959 --> 00:16:09,727
+For empathy
+
+279
+00:16:11,007 --> 00:16:15,615
+Decker the Harrison Ford character must retire a group of rogue replicants
+
+280
+00:16:15,871 --> 00:16:18,175
+But first you must find them and in this world
+
+281
+00:16:18,687 --> 00:16:19,967
+Turing test thresholds
+
+282
+00:16:20,479 --> 00:16:21,247
+Are weaponized
+
+283
+00:16:21,759 --> 00:16:25,599
+Left replicant pass as humans and trespass the on their station
+
+284
+00:16:27,647 --> 00:16:31,743
+By the Stones conclusion Deckard poo himself may or may not be a replicant
+
+285
+00:16:32,511 --> 00:16:33,279
+Develops
+
+286
+00:16:33,535 --> 00:16:38,399
+A certain empathy we might say for the replicants own desire for quote
+
+287
+00:16:38,655 --> 00:16:39,167
+More life
+
+288
+00:16:40,191 --> 00:16:43,775
+And arguably they to at least Roy Batty Rutger Hauer
+
+289
+00:16:44,031 --> 00:16:47,359
+Characters seem to have empathy for deckard's own dilemma
+
+290
+00:16:48,383 --> 00:16:49,663
+His dilemma and hours
+
+291
+00:16:51,711 --> 00:16:57,855
+Is that in order to enforce the gap between the human and the II defined by empathy or lack thereof
+
+292
+00:16:59,391 --> 00:17:02,975
+Deckard must suppress the empathy that supposedly makes him
+
+293
+00:17:03,231 --> 00:17:03,999
+Uniquely
+
+294
+00:17:04,255 --> 00:17:04,767
+Human
+
+295
+00:17:05,791 --> 00:17:11,935
+I forcing him to quash his own identification with the replicants that supposedly cannot have empathy and Rich
+
+296
+00:17:12,191 --> 00:17:16,543
+Turn the principle of differentiation requires its own violation
+
+297
+00:17:17,055 --> 00:17:18,335
+In order to maintain itself
+
+298
+00:17:20,895 --> 00:17:25,759
+Far better icing to examine in terms of thinking about how this
+
+299
+00:17:26,015 --> 00:17:32,159
+Salmon identification and the identification of production of the aspect of empathy
+
+300
+00:17:32,415 --> 00:17:34,975
+Works from our side of the conversation
+
+301
+00:17:35,487 --> 00:17:37,791
+Paro the baby robot seal
+
+302
+00:17:39,327 --> 00:17:41,631
+It's clearly much easier to make a robot
+
+303
+00:17:41,887 --> 00:17:43,935
+Did human believes to have emotion
+
+304
+00:17:44,191 --> 00:17:46,495
+And for which human intern may have emotion
+
+305
+00:17:46,751 --> 00:17:49,823
+Positive or negative entities to make a robot that actually has those ammo
+
+306
+00:17:51,359 --> 00:17:57,503
+The human may feel love or hate or comfort from the area but if he or she is reading choose not
+
+307
+00:17:57,759 --> 00:17:58,783
+Detecting feelings
+
+308
+00:18:00,063 --> 00:18:04,927
+What seems like empathy is really a one-way projection mistaken for recognition
+
+309
+00:18:05,695 --> 00:18:07,487
+Like the Turing test itself
+
+310
+00:18:07,999 --> 00:18:11,071
+And not based on any Mutual solidarity
+
+311
+00:18:13,375 --> 00:18:17,727
+Wheels the wish to define the very existence of a i in relationship
+
+312
+00:18:17,983 --> 00:18:19,263
+To its ability to mimic
+
+313
+00:18:19,519 --> 00:18:21,567
+How humans think that humans think
+
+314
+00:18:22,079 --> 00:18:25,151
+Will this be look back on as some weird form of species
+
+315
+00:18:26,687 --> 00:18:32,831
+Perhaps may also get the Legacy this also that does this Legacy the older models of AR Easter Sunday sent this
+
+316
+00:18:33,087 --> 00:18:33,855
+This research down
+
+317
+00:18:34,111 --> 00:18:40,255
+Disappointingly fruitless pass hoping to recreate human Minds from top down at the basic structure and it's just
+
+318
+00:18:40,511 --> 00:18:41,023
+Doesn't work
+
+319
+00:18:42,559 --> 00:18:47,423
+Stuart Russell and Peter norvig remind us in the essential AI textbook
+
+320
+00:18:48,703 --> 00:18:50,239
+Biomorphic imitation
+
+321
+00:18:51,007 --> 00:18:51,519
+Is not
+
+322
+00:18:51,775 --> 00:18:54,079
+How we design complex technology
+
+323
+00:18:54,847 --> 00:18:56,895
+Airplanes don't fly like birds
+
+324
+00:18:58,431 --> 00:19:00,223
+And we surely don't try to convince
+
+325
+00:19:00,991 --> 00:19:07,135
+Try to trick Birds into thinking the airplanes are birds in order to test whether these planes really are flying machine
+
+326
+00:19:08,671 --> 00:19:10,719
+So why do we do this for AI
+
+327
+00:19:13,279 --> 00:19:15,071
+Today the vast majority of
+
+328
+00:19:15,583 --> 00:19:21,727
+Serious core AI research is not focus on the Turing test is anything like essential cratering if he says other than
+
+329
+00:19:21,983 --> 00:19:25,055
+Hair human artificial hugs interaction research
+
+330
+00:19:25,823 --> 00:19:30,687
+As a question was General popular discourse about the tests
+
+331
+00:19:30,943 --> 00:19:35,039
+Versions of it's been sent the anthropocentrism thereof hold such
+
+332
+00:19:35,807 --> 00:19:37,599
+Still such conceptual important
+
+333
+00:19:38,111 --> 00:19:43,743
+Like the animals to talk like teenagers in a Disney movie other minds are conceivable mostly by way
+
+334
+00:19:43,999 --> 00:19:45,279
+Apura ventriloquism
+
+335
+00:19:47,071 --> 00:19:52,959
+Should a I arrived it will not be human-like unless we insist that it pretend to be so
+
+336
+00:19:53,727 --> 00:19:57,823
+Because one assumes the idea that intelligence could be both real
+
+337
+00:19:58,079 --> 00:20:03,455
+And inhuman at the same time as somehow morally or psychologically intolerable
+
+338
+00:20:04,223 --> 00:20:07,807
+Instead of nurturing is bigotry we would do better to allow that in our universe
+
+339
+00:20:08,063 --> 00:20:08,575
+Thinking
+
+340
+00:20:09,343 --> 00:20:11,647
+Is a much more diverse even alien
+
+341
+00:20:12,415 --> 00:20:14,207
+Phenomenon that our own pictures with case
+
+342
+00:20:14,975 --> 00:20:21,119
+That's the real philosophical issues and lessen the delay I will have less to do with humans teaching machine how to
+
+343
+00:20:22,911 --> 00:20:23,679
+Teaching humans
+
+344
+00:20:23,935 --> 00:20:25,983
+Fuller into a range of what thinking
+
+345
+00:20:26,239 --> 00:20:26,751
+Is
+
+346
+00:20:27,007 --> 00:20:27,519
+Can be
+
+347
+00:20:30,079 --> 00:20:30,591
+Now
+
+348
+00:20:31,615 --> 00:20:32,639
+In addition to the
+
+349
+00:20:34,175 --> 00:20:40,319
+Demystification expansion of thinking in this way in the relocation of human sapiens within this expanded form
+
+350
+00:20:41,343 --> 00:20:47,487
+The sensory media of synthetic intelligence may also contribute to a certain kind of undermining of
+
+351
+00:20:47,743 --> 00:20:49,279
+Certain forms of adorable
+
+352
+00:20:49,535 --> 00:20:53,631
+Conti and sort of the philosophical distinction between thinking and sense
+
+353
+00:20:55,167 --> 00:21:01,055
+I want a home in a bit on the ways in which that kind of cartographic abstraction nothing without their
+
+354
+00:21:01,567 --> 00:21:03,359
+Can infect also be dermal
+
+355
+00:21:03,871 --> 00:21:04,895
+Related to skin
+
+356
+00:21:05,663 --> 00:21:10,271
+It occupies an agitate skins human skins building skins any skin
+
+357
+00:21:10,527 --> 00:21:12,831
+And how this does so also for the purposes of methane
+
+358
+00:21:13,087 --> 00:21:14,111
+Until I touch briefly on
+
+359
+00:21:16,159 --> 00:21:17,696
+Extending what
+
+360
+00:21:17,952 --> 00:21:22,560
+Skin based media epic start an epidermal media can be
+
+361
+00:21:22,816 --> 00:21:25,632
+Humans from we recognize that well
+
+362
+00:21:26,400 --> 00:21:29,472
+In the late nineteenth Century Cinema and photography allowed
+
+363
+00:21:29,728 --> 00:21:32,032
+Ford Apostle to compose and to see
+
+364
+00:21:32,800 --> 00:21:35,616
+Sort of images we had never seen before
+
+365
+00:21:35,872 --> 00:21:38,432
+Montage slow motion double exposure
+
+366
+00:21:38,688 --> 00:21:42,784
+Synthetic and recorded sound for auditory senses
+
+367
+00:21:44,320 --> 00:21:46,624
+Our largest sensory organ
+
+368
+00:21:46,880 --> 00:21:52,000
+However quite obviously today not develop nearly as diverse forms of sophisticated
+
+369
+00:21:52,256 --> 00:21:57,376
+For the article cut short tactility were feeling on foreskin base Medias we have for vision
+
+370
+00:21:57,632 --> 00:21:58,400
+And hearing
+
+371
+00:21:59,424 --> 00:22:05,568
+Clothing are you least one way that we have leap frog genetic Evolution to augment skin
+
+372
+00:22:05,824 --> 00:22:10,688
+Faster faster than evolving for blubber into engineer school buses
+
+373
+00:22:12,992 --> 00:22:17,856
+So part of the research that working will try to research engagement UC San Diego
+
+374
+00:22:18,112 --> 00:22:24,256
+Geopolitics in collaboration with our department Emanuel engineering bioengineering is this is some exploratory research and
+
+375
+00:22:24,512 --> 00:22:25,024
+How old is
+
+376
+00:22:25,280 --> 00:22:26,560
+Let's say they presume
+
+377
+00:22:26,816 --> 00:22:29,632
+Space of difference between natural selection on the one hand
+
+378
+00:22:30,912 --> 00:22:32,704
+A machine sensing on the other
+
+379
+00:22:33,216 --> 00:22:39,360
+Is a lighted by certain technologies that operate in and on the skin and at the scale of are dermal and F
+
+380
+00:22:39,616 --> 00:22:41,152
+Ectodermal somatosensory system
+
+381
+00:22:41,920 --> 00:22:45,504
+Mechanoreceptors thermoreceptors and so forth and some kind of
+
+382
+00:22:45,760 --> 00:22:51,904
+Triple o word game by which nucleus machines are bequeath with panpsychic capacities for oven
+
+383
+00:22:52,160 --> 00:22:58,304
+Tuition has sex rather I referred you Real Deal Technologies by which biological and non-biological physicochemical
+
+384
+00:22:58,560 --> 00:23:02,400
+Are literally interwoven can edit the scale on sensitive skin
+
+385
+00:23:05,216 --> 00:23:09,056
+Artificial Skins are also among one of the four areas groups of
+
+386
+00:23:10,336 --> 00:23:14,688
+Design research more generally in this regard before examples long funded Research into
+
+387
+00:23:15,712 --> 00:23:16,992
+Advanced Prosthetics
+
+388
+00:23:17,504 --> 00:23:19,296
+Concurrently wanted to research tracks
+
+389
+00:23:19,552 --> 00:23:21,344
+Focuses on providing
+
+390
+00:23:21,600 --> 00:23:27,488
+Synthetic tactile sensation on Virtual fingertips that might go in the end of those pathetic
+
+391
+00:23:27,744 --> 00:23:29,280
+Look like she wearing them Steel
+
+392
+00:23:29,536 --> 00:23:30,816
+Using the way to feel it
+
+393
+00:23:32,096 --> 00:23:37,216
+And other kinds of dermal surfaces of for the kwikpen able alcapurria extensions for the wear
+
+394
+00:23:38,496 --> 00:23:44,640
+In other words I say another lapse wasn't near us when can find varieties of epidermal micro electronics at all
+
+395
+00:23:44,896 --> 00:23:47,968
+Augment the living skins capacities for sensing internal extra
+
+396
+00:23:48,224 --> 00:23:49,248
+Internal or external
+
+397
+00:23:49,760 --> 00:23:50,784
+Next Roadies
+
+398
+00:23:51,296 --> 00:23:53,856
+Nanoscale chemistry Cooks of inks
+
+399
+00:23:54,112 --> 00:23:59,232
+That react to the presence of ambient Trace elements of whatever particles their tune to react with
+
+400
+00:24:01,024 --> 00:24:02,048
+Kentucky signing
+
+401
+00:24:02,304 --> 00:24:08,448
+Chemical sensitivity at or near the atomic level in this case and the registration of those as a transmissible infer
+
+402
+00:24:08,704 --> 00:24:11,776
+Formation with dermal and epidermal microelectronics at largest scales
+
+403
+00:24:12,800 --> 00:24:16,640
+We can conceive really of a grilled mediatisation of Sensei
+
+404
+00:24:17,152 --> 00:24:17,664
+Surfaces
+
+405
+00:24:18,688 --> 00:24:23,552
+Together these Technologies suggest something like a skin base microstack
+
+406
+00:24:23,808 --> 00:24:28,672
+Price of biological and chemical and mechanical sensing and processing in various combinations
+
+407
+00:24:30,208 --> 00:24:36,352
+As an emerging formulation of wearable Computing here also including biochemical reactions
+
+408
+00:24:36,608 --> 00:24:40,960
+Did I say animal sensation machine sensing into a kind of composite surficial media
+
+409
+00:24:42,752 --> 00:24:47,360
+This platform for haptic interfaces at auction motion division it's terms of
+
+410
+00:24:47,616 --> 00:24:48,896
+Interaction
+
+411
+00:24:49,408 --> 00:24:52,992
+Maybe below or above normal perceptual scales
+
+412
+00:24:53,248 --> 00:24:58,368
+It may involve autonomic nervous reactions as much as if not more than the relatively blood gestures
+
+413
+00:24:58,880 --> 00:24:59,904
+Hands and stones
+
+414
+00:25:01,952 --> 00:25:07,328
+Trace and delete these dermal-epidermal media both ones we have the ones we're in the ones that we
+
+415
+00:25:07,584 --> 00:25:08,096
+Anticipate
+
+416
+00:25:08,864 --> 00:25:14,240
+Make it possible to sense things about the external World other that our skin otherwise is not able to register
+
+417
+00:25:15,008 --> 00:25:18,848
+Particulate matter sensor the skills part 4
+
+418
+00:25:19,360 --> 00:25:20,896
+PH balance in your sweat
+
+419
+00:25:21,664 --> 00:25:23,968
+But the longer-term and really more interesting
+
+420
+00:25:24,480 --> 00:25:26,016
+Design Horizon for skin basement
+
+421
+00:25:26,784 --> 00:25:28,576
+I want to do it allow bodies
+
+422
+00:25:29,088 --> 00:25:32,160
+Novel and unnatural form to touch sensation
+
+423
+00:25:32,416 --> 00:25:33,952
+We have perhaps never experienced
+
+424
+00:25:36,000 --> 00:25:38,304
+Pleasure in pain or on the menu but more
+
+425
+00:25:40,352 --> 00:25:46,496
+Early in experimental media and Renovations with with artificial Visions insights and South
+
+426
+00:25:48,544 --> 00:25:54,432
+Also perhaps is Molecular Gastronomy in the rebuilding of food from first principles on up
+
+427
+00:25:55,456 --> 00:25:56,992
+And if we include taste
+
+428
+00:25:58,016 --> 00:26:00,320
+Is it particularly Nuance going to touch
+
+429
+00:26:00,576 --> 00:26:01,344
+Which of course it is
+
+430
+00:26:02,624 --> 00:26:03,136
+Then
+
+431
+00:26:03,392 --> 00:26:06,720
+Weather today novel tastes are models for New Sensation
+
+432
+00:26:09,024 --> 00:26:13,888
+The same holds true I was hoping to argue for the redesign of the surfaces of the city
+
+433
+00:26:14,144 --> 00:26:14,656
+Its skin
+
+434
+00:26:15,680 --> 00:26:21,824
+Urban interfaces are also sensory mechanisms sometimes their binary gateways that allow or prohibit admission
+
+435
+00:26:23,104 --> 00:26:26,688
+Other times there are reactive skins that sense threshold events
+
+436
+00:26:27,200 --> 00:26:29,248
+My reaction to light sound and touch
+
+437
+00:26:29,504 --> 00:26:30,528
+Debian Trace elements
+
+438
+00:26:31,552 --> 00:26:35,904
+And as we Meander the city these interfaces are also our habitat
+
+439
+00:26:36,160 --> 00:26:37,696
+We dwell within them
+
+440
+00:26:38,976 --> 00:26:41,024
+But they are dwelling as well
+
+441
+00:26:41,792 --> 00:26:46,144
+They sent us as their world and we are their habitats as much as they are ours
+
+442
+00:26:46,912 --> 00:26:51,008
+We are organisms living inside of them just as they are inside of us
+
+443
+00:26:52,544 --> 00:26:57,152
+Ubiquitous Computing Adam in the City skins and surfaces of interfaces
+
+444
+00:26:57,408 --> 00:26:59,712
+We see is something like urbanism as
+
+445
+00:26:59,968 --> 00:27:01,504
+Necessary ism
+
+446
+00:27:01,760 --> 00:27:03,296
+What nasty parasitism
+
+447
+00:27:08,672 --> 00:27:09,440
+From touching
+
+448
+00:27:10,208 --> 00:27:10,720
+To see it
+
+449
+00:27:12,768 --> 00:27:18,400
+But shipping is line of inquiry up to the servants kill this way what we take to be the artificially mediated
+
+450
+00:27:18,912 --> 00:27:20,704
+Surface includes things that are
+
+451
+00:27:20,960 --> 00:27:22,496
+Analogous to skin
+
+452
+00:27:22,752 --> 00:27:27,104
+But we sure but we would also those things we would today refer to colloquially
+
+453
+00:27:27,616 --> 00:27:28,640
+As a kind of machine
+
+454
+00:27:28,896 --> 00:27:30,176
+Vision protocol
+
+455
+00:27:31,968 --> 00:27:34,784
+Vision has evolved independently many times
+
+456
+00:27:35,040 --> 00:27:39,392
+Evolutionary history and arguably in the past two decades or so it has a vault again
+
+457
+00:27:40,416 --> 00:27:46,560
+This time not for cuttlefish or rattlesnakes but for Network CCD sensors and algorithmic armatures
+
+458
+00:27:46,816 --> 00:27:48,864
+Processing what is sensed into differentiating
+
+459
+00:27:49,120 --> 00:27:50,912
+Differentiating and motivated
+
+460
+00:27:51,168 --> 00:27:52,704
+Cut recognition in cognition
+
+461
+00:27:55,008 --> 00:27:58,080
+Quote unquote visual sensors responding to light
+
+462
+00:27:58,848 --> 00:28:00,896
+Often but not always shaped like Cameron
+
+463
+00:28:01,152 --> 00:28:03,200
+Are one kind of design surface
+
+464
+00:28:03,456 --> 00:28:05,504
+Capable of synthetic sensation
+
+465
+00:28:05,760 --> 00:28:07,296
+And computational interpretation
+
+466
+00:28:08,576 --> 00:28:14,720
+Put in the wider Urban landscape they to commingle with networks of other surficial sensors responding to
+
+467
+00:28:14,976 --> 00:28:17,792
+Motion and pressure and heat and ambient air quality so poor
+
+468
+00:28:19,072 --> 00:28:23,936
+Until I get to the extended epistemological and something convenient we call these very soon Machine Vision
+
+469
+00:28:24,192 --> 00:28:27,008
+Missing hearing machine skin but of course any real correspondence
+
+470
+00:28:27,264 --> 00:28:29,312
+To and from the mammalian sensory apparatus
+
+471
+00:28:29,568 --> 00:28:30,336
+Amelia allegory
+
+472
+00:28:31,360 --> 00:28:35,712
+The AI City maybe inviting itself but it's also a few times not as weak
+
+473
+00:28:39,552 --> 00:28:41,600
+Aspen media technology that links it to
+
+474
+00:28:42,112 --> 00:28:45,440
+But we pieced together answer tonight until particular question envision
+
+475
+00:28:45,696 --> 00:28:46,208
+Ford light
+
+476
+00:28:47,232 --> 00:28:50,048
+You might say that when information is scarce
+
+477
+00:28:50,816 --> 00:28:52,608
+Then copying something
+
+478
+00:28:53,120 --> 00:28:54,656
+Is the work of the mechanical image
+
+479
+00:28:55,936 --> 00:28:56,448
+However
+
+480
+00:28:56,960 --> 00:28:58,752
+When information is abundant
+
+481
+00:28:59,264 --> 00:29:00,800
+Especially when it's over London
+
+482
+00:29:01,568 --> 00:29:03,104
+Then seeing the original
+
+483
+00:29:03,616 --> 00:29:05,920
+Picking a pattern out of the background
+
+484
+00:29:06,432 --> 00:29:08,224
+This is the work of Machine Vision
+
+485
+00:29:09,504 --> 00:29:15,648
+Quick-thinking animals seeing and making things is easy but making copies of what it's insane and made it hard
+
+486
+00:29:16,160 --> 00:29:18,208
+But machines on the other hand making copies
+
+487
+00:29:18,720 --> 00:29:19,744
+Is a way of seeing
+
+488
+00:29:20,512 --> 00:29:22,048
+Is much easier than thinking
+
+489
+00:29:22,560 --> 00:29:23,840
+Warcraft is a kind of thinking
+
+490
+00:29:26,144 --> 00:29:31,776
+And in the very history of the multiple and as I say independent evolutionary careers division
+
+491
+00:29:32,032 --> 00:29:34,336
+Various photoreceptor cells found across
+
+492
+00:29:34,592 --> 00:29:37,408
+Viola may have evolved many different kinds of chemoreceptors
+
+493
+00:29:38,688 --> 00:29:41,760
+Most likely well in advance of anything we might recognize each other
+
+494
+00:29:42,272 --> 00:29:44,832
+Polyflex brain like information processing order
+
+495
+00:29:47,392 --> 00:29:48,416
+Further we could say that
+
+496
+00:29:48,928 --> 00:29:50,720
+Photosynthesis is also
+
+497
+00:29:50,976 --> 00:29:53,024
+In the chemical response to light
+
+498
+00:29:53,536 --> 00:29:57,120
+And so in the broadest sense it to could be considered as it kind of
+
+499
+00:29:57,632 --> 00:29:58,656
+Vision Without images
+
+500
+00:30:02,240 --> 00:30:06,080
+Within the atom allien Vision image making Nexus
+
+501
+00:30:07,360 --> 00:30:08,384
+The one that we
+
+502
+00:30:08,896 --> 00:30:11,200
+Primarily human
+
+503
+00:30:11,968 --> 00:30:15,040
+Likely that's from the beginning to the end of the hall of fame
+
+504
+00:30:16,064 --> 00:30:18,880
+The total quantity of images that humans are produced
+
+505
+00:30:19,648 --> 00:30:21,696
+Cave walls to FaceTime
+
+506
+00:30:22,464 --> 00:30:22,976
+Measures
+
+507
+00:30:23,232 --> 00:30:24,512
+Per year
+
+508
+00:30:24,768 --> 00:30:28,096
+Total pounds of images total terabytes in information so far
+
+509
+00:30:28,352 --> 00:30:29,888
+Continues to increase
+
+510
+00:30:30,656 --> 00:30:31,424
+Exponentially
+
+511
+00:30:33,216 --> 00:30:36,288
+Now with digital imaging machines and everyone's pocket
+
+512
+00:30:37,056 --> 00:30:39,616
+The rawsome of total images produced
+
+513
+00:30:39,872 --> 00:30:42,944
+Some days until your 2005-2008
+
+514
+00:30:43,712 --> 00:30:46,528
+Maybe more than all of those produced
+
+515
+00:30:46,784 --> 00:30:47,808
+Up to that moment
+
+516
+00:30:50,624 --> 00:30:53,440
+Depends of course in how you define quantify an image
+
+517
+00:30:54,208 --> 00:30:54,720
+But
+
+518
+00:30:55,232 --> 00:30:59,584
+But both of them even called mechanical reproducing reproducibility is certainly allowed
+
+519
+00:31:00,352 --> 00:31:02,656
+Images to proliferate far beyond the means
+
+520
+00:31:03,168 --> 00:31:03,936
+If You Can Craft
+
+521
+00:31:04,960 --> 00:31:07,776
+Further today many images are made for No One
+
+522
+00:31:08,800 --> 00:31:10,592
+But this does not mean that their function was
+
+523
+00:31:11,104 --> 00:31:15,456
+They're made by in for machines that see the world differently than we do
+
+524
+00:31:15,712 --> 00:31:20,320
+Those machines don't have eyeballs are rods and cones or visual cortex but they do have sensors
+
+525
+00:31:20,832 --> 00:31:23,648
+The detect light and motion inform and heat and color
+
+526
+00:31:24,160 --> 00:31:24,928
+In other ways
+
+527
+00:31:26,976 --> 00:31:33,120
+And Saturdays at the industrial scale processing of that data that has been cleaned by scanning the light spectrum in Sun
+
+528
+00:31:33,376 --> 00:31:34,656
+Urban scale
+
+529
+00:31:34,912 --> 00:31:38,496
+Treat your family can millimeter scale quality control along assembly lines
+
+530
+00:31:39,008 --> 00:31:45,152
+Represents a significant fraction of all of the work that the world does the image itself for the purpose
+
+531
+00:31:45,408 --> 00:31:46,688
+Laws governing Human Society
+
+532
+00:31:47,456 --> 00:31:48,480
+The end of the day
+
+533
+00:31:48,736 --> 00:31:49,760
+Let me see me find them
+
+534
+00:31:50,016 --> 00:31:52,064
+I take more selfies than cells do
+
+535
+00:31:54,368 --> 00:31:56,416
+However the function of representation
+
+536
+00:31:57,184 --> 00:31:58,976
+At work here is probably rather differ
+
+537
+00:31:59,744 --> 00:32:01,280
+The quote on quote image
+
+538
+00:32:01,536 --> 00:32:02,560
+May likely remain
+
+539
+00:32:03,072 --> 00:32:03,584
+Data
+
+540
+00:32:04,352 --> 00:32:07,424
+Is never rear-ender to look like a picture
+
+541
+00:32:07,936 --> 00:32:08,960
+Because there's no need
+
+542
+00:32:10,496 --> 00:32:16,640
+An algorithm program to discern a particular pattern or normally can see it directly in the date itself
+
+543
+00:32:16,896 --> 00:32:19,456
+It doesn't necessarily need for that day to be projected
+
+544
+00:32:19,712 --> 00:32:22,784
+Is it for a mammal and then reason and reinterpreted back into
+
+545
+00:32:23,040 --> 00:32:23,808
+Code like any
+
+546
+00:32:24,320 --> 00:32:27,392
+Like like any algorithmic scanning and sorting of a
+
+547
+00:32:27,648 --> 00:32:29,440
+Any large dataset the fact
+
+548
+00:32:29,696 --> 00:32:31,232
+That the original source
+
+549
+00:32:31,488 --> 00:32:32,256
+Was or is
+
+550
+00:32:32,512 --> 00:32:33,280
+Visual
+
+551
+00:32:34,048 --> 00:32:34,816
+Is not so critical
+
+552
+00:32:36,352 --> 00:32:39,680
+So again like plants do machines also possess a kind of
+
+553
+00:32:40,448 --> 00:32:41,472
+Vision Without images
+
+554
+00:32:42,240 --> 00:32:48,384
+Or at least an image kind of damage with that suggested very different form of abstraction Twitter very different
+
+555
+00:32:48,640 --> 00:32:50,432
+Kind of Corporal experience
+
+556
+00:32:50,688 --> 00:32:56,832
+An abstraction the space on chemical or informational pattern finding as as that cartographic simulation of it
+
+557
+00:32:57,088 --> 00:32:58,880
+Or as that experience itself
+
+558
+00:33:01,184 --> 00:33:01,696
+Perhaps
+
+559
+00:33:01,952 --> 00:33:04,000
+Surprising to some apps not to others
+
+560
+00:33:04,256 --> 00:33:05,280
+Identity
+
+561
+00:33:05,792 --> 00:33:09,888
+Function of machinic images today and other abstractions
+
+562
+00:33:10,400 --> 00:33:11,936
+Both animal and algorithm
+
+563
+00:33:12,704 --> 00:33:16,544
+Is it many cases if not actually predominantly to determine
+
+564
+00:33:16,800 --> 00:33:18,848
+The veracity and originality
+
+565
+00:33:19,104 --> 00:33:21,408
+What does images supposedly represent
+
+566
+00:33:22,688 --> 00:33:23,200
+For example
+
+567
+00:33:23,712 --> 00:33:27,040
+Some of the shades printed on dollar bills or bureaus
+
+568
+00:33:28,320 --> 00:33:32,416
+Are there for humans to differentiate the value of one token from another
+
+569
+00:33:33,440 --> 00:33:39,584
+Far more are Ford Machine Vision counterfeit detection to verify that this is a real dollar
+
+570
+00:33:40,608 --> 00:33:44,960
+Piece of paper is full of machines that happened to look like pictures
+
+571
+00:33:45,984 --> 00:33:48,544
+It is an image as machine
+
+572
+00:33:50,592 --> 00:33:56,736
+Or a surveillance cannabis City make pick out one face one body from thousands of motions looking for the one
+
+573
+00:33:56,992 --> 00:33:57,760
+True Target
+
+574
+00:33:59,040 --> 00:34:04,672
+Elsewhere we insert tiny Camera Pro into great paintings for to verify that they are Originals
+
+575
+00:34:05,184 --> 00:34:06,976
+This is often required by Insurance Company
+
+576
+00:34:07,232 --> 00:34:08,000
+Stacking purchases
+
+577
+00:34:09,792 --> 00:34:13,888
+Online capture software shows us an image and then in a quick
+
+578
+00:34:14,144 --> 00:34:19,008
+Conversion of the Turing test analyzes how the human user interpreted to determine if they are in fact
+
+579
+00:34:19,520 --> 00:34:20,544
+A real person
+
+580
+00:34:22,080 --> 00:34:28,224
+So we can clue perhaps that venue means assurances that mechanical reproduction would undermine the aura
+
+581
+00:34:28,480 --> 00:34:29,248
+The original
+
+582
+00:34:29,760 --> 00:34:34,368
+Is true when for example we compare a painting with a postcard of a painting
+
+583
+00:34:35,392 --> 00:34:38,976
+However Machine Vision and images as machines
+
+584
+00:34:39,232 --> 00:34:41,024
+Put to work to ensure
+
+585
+00:34:41,792 --> 00:34:42,816
+O'rielly Collision
+
+586
+00:34:44,096 --> 00:34:45,376
+They're fighting on fakes
+
+587
+00:34:45,632 --> 00:34:47,424
+True identity unbroken version
+
+588
+00:34:48,192 --> 00:34:50,496
+Normal Target certified Real Deals
+
+589
+00:34:51,776 --> 00:34:57,152
+Until kind of revolution is made back around as the image is more fully teknologize
+
+590
+00:34:57,664 --> 00:34:59,712
+As it becomes itself a machine and some k
+
+591
+00:35:00,480 --> 00:35:06,624
+Then benyamin's historical Ark from the pre-mechanical original to Mechanical copy is incomplete without another curve
+
+592
+00:35:07,648 --> 00:35:08,416
+Leaving now
+
+593
+00:35:08,928 --> 00:35:09,440
+To what
+
+594
+00:35:09,952 --> 00:35:10,976
+Machine Aquatics
+
+595
+00:35:13,792 --> 00:35:14,560
+Still
+
+596
+00:35:14,816 --> 00:35:18,656
+If we if we if cities are always in there some way about vision
+
+597
+00:35:18,912 --> 00:35:20,448
+Sunday great again
+
+598
+00:35:20,960 --> 00:35:21,472
+Disappeared
+
+599
+00:35:21,728 --> 00:35:22,496
+As well
+
+600
+00:35:23,520 --> 00:35:25,568
+We think of this in terms of how we see it
+
+601
+00:35:26,080 --> 00:35:26,848
+Which is fine
+
+602
+00:35:27,104 --> 00:35:28,128
+Or see each other through it
+
+603
+00:35:28,384 --> 00:35:28,896
+Supply
+
+604
+00:35:29,664 --> 00:35:32,736
+But you also think of it in terms of how it sees on its own car
+
+605
+00:35:35,040 --> 00:35:36,832
+The machine visual subject
+
+606
+00:35:38,112 --> 00:35:43,488
+What sport is not something that's that possesses necessarily human-like or human-level perceptual anesthetic
+
+607
+00:35:43,744 --> 00:35:44,256
+Capacities
+
+608
+00:35:46,304 --> 00:35:48,096
+Discernment of connoisseurship
+
+609
+00:35:48,352 --> 00:35:52,960
+But rather something that is interesting because it does not possess those things
+
+610
+00:35:53,216 --> 00:35:54,752
+And yet can see us
+
+611
+00:35:55,264 --> 00:35:56,032
+Recognizes
+
+612
+00:35:56,288 --> 00:35:57,568
+And Noah's regardless
+
+613
+00:35:58,080 --> 00:35:58,592
+And that's
+
+614
+00:35:59,104 --> 00:35:59,872
+Weird enough
+
+615
+00:36:02,176 --> 00:36:06,016
+So there's the question of the white-haired how the world looks as a screen and another
+
+616
+00:36:06,784 --> 00:36:12,928
+More important I think it's how we look as objects of perception from the position of machines with weave
+
+617
+00:36:13,184 --> 00:36:13,696
+Which we
+
+618
+00:36:13,952 --> 00:36:14,720
+Kolacky pie
+
+619
+00:36:15,232 --> 00:36:15,744
+That world
+
+620
+00:36:17,024 --> 00:36:21,632
+Seeing ourselves Through The Eyes of this machine and other who does not
+
+621
+00:36:21,888 --> 00:36:25,216
+Cannot have an active sense of Aesthetics is it kind of
+
+622
+00:36:25,472 --> 00:36:26,240
+Disenchantment
+
+623
+00:36:27,776 --> 00:36:29,056
+We are just stuff
+
+624
+00:36:29,312 --> 00:36:35,456
+In the world for distributed metric machine cognition to look at and to make sense of our own sapience is real
+
+625
+00:36:36,224 --> 00:36:36,992
+And unique
+
+626
+00:36:37,504 --> 00:36:41,600
+But as we are things to observe that just happened to the Sapient
+
+627
+00:36:42,112 --> 00:36:43,392
+This doesn't really matter
+
+628
+00:36:43,648 --> 00:36:44,416
+Two machines
+
+629
+00:36:46,464 --> 00:36:51,840
+Distance from Shamrock I think it's more than just like hearing the sound of the record this recorded sound of your voice
+
+630
+00:36:52,864 --> 00:36:53,632
+Possibly be me
+
+631
+00:36:54,912 --> 00:36:57,728
+It's potentially the clearing away of a more closely guarded
+
+632
+00:36:58,240 --> 00:36:58,752
+Illusion
+
+633
+00:37:00,288 --> 00:37:05,920
+Uncomfortable recognition in the machines mirror the kind of perhaps reverse uncanny valley
+
+634
+00:37:07,200 --> 00:37:13,344
+Instead of being creeped out that has slightly in human the creature in the image appears were creeped out at Hell on human weave
+
+635
+00:37:13,600 --> 00:37:14,368
+We ourselves look
+
+636
+00:37:14,880 --> 00:37:15,904
+Through the creatures eyes
+
+637
+00:37:21,280 --> 00:37:23,328
+Politics of this are also a bit
+
+638
+00:37:26,912 --> 00:37:30,240
+Writing a book about artificial intelligence
+
+639
+00:37:31,264 --> 00:37:33,056
+I found some ways I can expect it
+
+640
+00:37:33,312 --> 00:37:35,872
+In many ways fully impossible to separate
+
+641
+00:37:36,128 --> 00:37:41,248
+The technology itself from the sometimes bizarre ideas that we have for it and about it
+
+642
+00:37:42,016 --> 00:37:45,344
+Reason fascinated by how Technologies are not only anthropomorphised
+
+643
+00:37:46,112 --> 00:37:50,208
+Because Summer considered menacing and others amazing and some both at once
+
+644
+00:37:52,000 --> 00:37:56,352
+The way in which part of the system part of the genealogy that we might take me out at least through
+
+645
+00:37:56,864 --> 00:37:58,912
+The Towson the influencing machine
+
+646
+00:37:59,424 --> 00:38:00,448
+About the ways in which this
+
+647
+00:38:00,960 --> 00:38:03,264
+This apparatus just the younger understanding
+
+648
+00:38:03,520 --> 00:38:04,544
+Take on a condom
+
+649
+00:38:05,056 --> 00:38:06,592
+Psychiatric significance
+
+650
+00:38:07,872 --> 00:38:14,016
+Whether the aliens are reading your thoughts through radio waves in dental implants or Google is reading your thoughts to the email
+
+651
+00:38:14,528 --> 00:38:17,856
+The Borderlands between schizophrenia and sensible vigilance
+
+652
+00:38:18,112 --> 00:38:19,904
+Delusion and deductions are
+
+653
+00:38:20,160 --> 00:38:21,184
+Disputed territory
+
+654
+00:38:22,720 --> 00:38:28,864
+Perhaps it comes down to a level of discomfort not just with how some people see technology but we have some people think Tech
+
+655
+00:38:29,120 --> 00:38:29,888
+Nology see them
+
+656
+00:38:30,912 --> 00:38:37,056
+The occult artifacts of planetary scale computation are a cracked mirror and reflection
+
+657
+00:38:37,312 --> 00:38:38,848
+Scene there are given to
+
+658
+00:38:39,104 --> 00:38:42,944
+Medicann and dualistic and sometimes even bipolar
+
+659
+00:38:43,200 --> 00:38:44,480
+Political psychiatric
+
+660
+00:38:44,992 --> 00:38:45,504
+Imaginary
+
+661
+00:38:46,528 --> 00:38:48,064
+For example deepdream
+
+662
+00:38:49,600 --> 00:38:55,744
+Last summer was here we had to study dreams this get these are they self tell you about these are the moments images of research and release
+
+663
+00:38:56,256 --> 00:38:57,536
+Sometimes this summer
+
+664
+00:38:58,304 --> 00:39:01,632
+Before Franco Berardi and I were having breakfast as well he and I should be done for
+
+665
+00:39:03,680 --> 00:39:06,496
+We don't usually think about Google in the same ways let's say
+
+666
+00:39:06,752 --> 00:39:08,288
+But we were both totally amazed
+
+667
+00:39:10,336 --> 00:39:13,152
+Ongoing conversations about this really read these represent
+
+668
+00:39:13,920 --> 00:39:16,992
+A new kind of image we haven't seen before it's so he's such a long time
+
+669
+00:39:17,248 --> 00:39:23,392
+Basically
+
+670
+00:39:23,648 --> 00:39:24,672
+Every newspaper
+
+671
+00:39:27,232 --> 00:39:30,048
+What's the project undertaken by Google research where you insensitive
+
+672
+00:39:30,304 --> 00:39:36,448
+Object recognition algorithm to analyze large data sets and look for particular things
+
+673
+00:39:36,704 --> 00:39:37,216
+Photo app Note
+
+674
+00:39:37,472 --> 00:39:42,080
+Which which face you are that's a horse or dog dressed up as well they're interested in the weather like
+
+675
+00:39:42,592 --> 00:39:48,736
+How did what kind of feedback loops could this order provide what happens if it tries to see something that's not there but you force it to
+
+676
+00:39:48,992 --> 00:39:52,832
+See it again or use you asking to see it so often says well this is kind of what this done
+
+677
+00:39:53,600 --> 00:39:59,744
+In the simplest of explanation that the process is kind of simple find edges function like you might learn Photoshop where you should have filled
+
+678
+00:40:00,000 --> 00:40:04,352
+2D image to should make the edges everything fit more what it is in relationship to things around it
+
+679
+00:40:04,864 --> 00:40:07,424
+You didn't ask me to look for the thing but it's looking for
+
+680
+00:40:07,936 --> 00:40:08,960
+And then you do this again
+
+681
+00:40:09,472 --> 00:40:15,616
+And then you could do it again and then again and you feed this back through the system over and over and over and over and over again and it starts to actually
+
+682
+00:40:16,640 --> 00:40:17,664
+Depressing
+
+683
+00:40:17,920 --> 00:40:20,992
+Find things that is looking for that aren't actually there
+
+684
+00:40:21,760 --> 00:40:22,272
+Kind of
+
+685
+00:40:22,528 --> 00:40:23,296
+AI
+
+686
+00:40:23,552 --> 00:40:24,832
+Hallucination
+
+687
+00:40:25,344 --> 00:40:25,856
+If you like
+
+688
+00:40:26,880 --> 00:40:32,000
+Now there's a bunch of websites you can go to even take your own vacation photos and upload them and have them deep dream of find
+
+689
+00:40:32,256 --> 00:40:33,536
+If you like
+
+690
+00:40:34,048 --> 00:40:37,376
+Food is horrible to do this as well
+
+691
+00:40:37,632 --> 00:40:38,656
+P**** solo
+
+692
+00:40:39,168 --> 00:40:40,192
+Not recommended
+
+693
+00:40:40,448 --> 00:40:46,592
+The images I think a remarkable enough on their own irrespective of their
+
+694
+00:40:46,848 --> 00:40:49,152
+Providence but once the viewer I think makes the
+
+695
+00:40:49,408 --> 00:40:55,552
+Partial and crystals partial empathetic transference into the other mind of the speaker recognition algorithm in
+
+696
+00:40:55,808 --> 00:40:57,088
+It's way of seeing some
+
+697
+00:40:57,344 --> 00:41:01,440
+The effects of trying on a new motor perception
+
+698
+00:41:01,696 --> 00:41:03,744
+Making sense of the world through those eyes
+
+699
+00:41:04,256 --> 00:41:05,536
+That's the real payoff
+
+700
+00:41:07,072 --> 00:41:10,144
+Even if it's an example is it to hear what kind of AI
+
+701
+00:41:10,400 --> 00:41:11,424
+Phenia
+
+702
+00:41:11,680 --> 00:41:12,704
+False positive
+
+703
+00:41:12,960 --> 00:41:13,728
+As a quart
+
+704
+00:41:15,520 --> 00:41:16,800
+What is the following
+
+705
+00:41:17,056 --> 00:41:23,200
+Stop on this remember what is a poppy apophenia is the psychological phenomenon of false pattern recognition
+
+706
+00:41:23,712 --> 00:41:26,528
+But you see a pattern in something that's not really there
+
+707
+00:41:28,064 --> 00:41:34,208
+Parody Lia is the subtype of five apathy when you see faces in things that aren't really there and receiving weather Yuma
+
+708
+00:41:34,464 --> 00:41:40,608
+Whether you want to or not you can say I'd Sonata face I know it's not a phase you're going to see a face it's not necessarily A
+
+709
+00:41:40,864 --> 00:41:41,376
+Kind of
+
+710
+00:41:41,632 --> 00:41:42,656
+Process that you can be
+
+711
+00:41:43,680 --> 00:41:45,472
+Disenchanted of by just by
+
+712
+00:41:45,984 --> 00:41:46,752
+Beat Hotel
+
+713
+00:41:48,544 --> 00:41:54,687
+What is the schizophrenia causation causality Dynamic where you see some correspondence between things I need to do sit there must be some
+
+714
+00:41:54,943 --> 00:41:58,271
+I'm called the relationship between deceiving in general instructions
+
+715
+00:41:58,527 --> 00:41:59,039
+About Buffet
+
+716
+00:41:59,295 --> 00:42:03,135
+Conspiracy theories apophenia as a form of political science
+
+717
+00:42:06,719 --> 00:42:12,863
+What is who we are and what we do is that this kind of pattern finding even the false pattern finding is intrinsic
+
+718
+00:42:13,119 --> 00:42:13,887
+And necessary
+
+719
+00:42:14,655 --> 00:42:15,167
+QR
+
+720
+00:42:15,423 --> 00:42:16,703
+Evolution that you are taken
+
+721
+00:42:16,959 --> 00:42:19,519
+We R Who We R Who can't set up junk junk without it
+
+722
+00:42:21,567 --> 00:42:26,943
+Think of it this way there's a character
+
+723
+00:42:27,455 --> 00:42:29,759
+Penfield really good novels about AI
+
+724
+00:42:30,271 --> 00:42:31,551
+Tropical echopraxia
+
+725
+00:42:32,831 --> 00:42:36,159
+And in this story one of the character relays this this this
+
+726
+00:42:37,951 --> 00:42:40,255
+Affinia to one of the other characters
+
+727
+00:42:43,071 --> 00:42:47,167
+Is the character that argues that this false pattern recognition is hardwired
+
+728
+00:42:47,423 --> 00:42:47,935
+Into
+
+729
+00:42:48,191 --> 00:42:49,471
+Are Homo sapiens evolution
+
+730
+00:42:49,727 --> 00:42:54,079
+Except some story goes like this ten thousands of years ago two guys are hiding in the tall grass
+
+731
+00:42:54,847 --> 00:42:57,663
+Quietly looking around for both predator and prey
+
+732
+00:42:59,199 --> 00:43:05,343
+One of them see the faint but distinct anomaly in the White Delight brakes to the grass moving left to right and you recognize it
+
+733
+00:43:05,599 --> 00:43:07,135
+This is pattern of that of a looming
+
+734
+00:43:08,159 --> 00:43:09,695
+He runs away back to the Village
+
+735
+00:43:10,207 --> 00:43:11,231
+Leaving his friend
+
+736
+00:43:11,487 --> 00:43:13,791
+Who does not possess the pattern recognition Gene
+
+737
+00:43:14,303 --> 00:43:14,815
+To be eaten
+
+738
+00:43:16,095 --> 00:43:21,727
+The guy who ran away was able to reproduce his pattern-recognition jeans and sure his and their survival
+
+739
+00:43:21,983 --> 00:43:25,055
+And the guy who did not possess those jeans did Don reproduce
+
+740
+00:43:25,311 --> 00:43:26,079
+However
+
+741
+00:43:26,591 --> 00:43:27,615
+It was a third guy
+
+742
+00:43:28,127 --> 00:43:30,687
+Sitting in a similar graph perhaps the morning earlier
+
+743
+00:43:31,967 --> 00:43:35,551
+He too thought there was a tiger and got up and ran back to the safety of the village
+
+744
+00:43:36,063 --> 00:43:36,831
+But in this case
+
+745
+00:43:37,087 --> 00:43:37,855
+There was no tiger
+
+746
+00:43:38,367 --> 00:43:39,135
+It was all in his mind
+
+747
+00:43:40,671 --> 00:43:41,695
+He was not cutting
+
+748
+00:43:41,951 --> 00:43:42,975
+He was paranoid
+
+749
+00:43:43,999 --> 00:43:50,143
+Yep he too was able to respond reproduce and his faulty pattern recognition jeans which or perhaps actually the same thing
+
+750
+00:43:50,399 --> 00:43:53,983
+Actor pattern recognition genes were also able to reproduce
+
+751
+00:43:54,239 --> 00:43:56,031
+As well perhaps with the second guys
+
+752
+00:43:57,567 --> 00:44:01,151
+The lesson is that Evolution has greatly rewarded both positive
+
+753
+00:44:01,407 --> 00:44:03,455
+Successful human pattern recognition
+
+754
+00:44:03,711 --> 00:44:05,503
+It's also found inexplicably
+
+755
+00:44:05,759 --> 00:44:08,319
+The Bounty of that bargain
+
+756
+00:44:08,831 --> 00:44:10,879
+It is also rewarded hallucination
+
+757
+00:44:11,391 --> 00:44:12,159
+And error
+
+758
+00:44:13,439 --> 00:44:14,207
+And so
+
+759
+00:44:15,999 --> 00:44:17,023
+It's one thing
+
+760
+00:44:17,279 --> 00:44:18,047
+Caution
+
+761
+00:44:18,303 --> 00:44:19,071
+Paranoia
+
+762
+00:44:19,327 --> 00:44:20,095
+About Google
+
+763
+00:44:20,863 --> 00:44:23,679
+But it's but it's not as if Google's algorithms are
+
+764
+00:44:23,935 --> 00:44:24,703
+RR
+
+765
+00:44:24,959 --> 00:44:28,799
+Art themselves as if they are not themselves also deeply paranoid
+
+766
+00:44:29,823 --> 00:44:32,895
+After all they see psychedelic log faces in everything
+
+767
+00:44:35,455 --> 00:44:41,599
+The reason the teaching hallucinating dogs is itself not spooky its object recognition faculties
+
+768
+00:44:41,855 --> 00:44:44,927
+Are you trained doing an image dataset called imagenet
+
+769
+00:44:45,439 --> 00:44:47,231
+Which is based on various breeds of dogs
+
+770
+00:44:47,743 --> 00:44:53,887
+You can try. I'll look different you train the recognition identify the poodle and a great day and I love her all constitute dog is this
+
+771
+00:44:57,983 --> 00:45:01,055
+And so it won't therefore hallucinate dogs
+
+772
+00:45:01,567 --> 00:45:06,943
+Where there are none and to identify people as dogs if it's told to look at them hard enough
+
+773
+00:45:08,479 --> 00:45:13,343
+The spider may seem insulting but maybe it shouldn't you to call the diogenes
+
+774
+00:45:13,599 --> 00:45:17,183
+Proto cosmopolitanism is based after all in the Glorious dog like
+
+775
+00:45:20,511 --> 00:45:26,655
+Until deep dreams images are artifacts of computers hallucinations of phantom conclusions then
+
+776
+00:45:26,911 --> 00:45:29,471
+Perhaps the conspiratorial figure cut by
+
+777
+00:45:29,983 --> 00:45:32,031
+Eagle Google evil Google stepfather
+
+778
+00:45:33,055 --> 00:45:36,895
+Is that same paranoid Vision turn inside out and back on
+
+779
+00:45:38,175 --> 00:45:43,039
+Perhaps Google the eye is it paranoid and how it sees us as some of us are and how we see it
+
+780
+00:45:44,063 --> 00:45:47,903
+It's not coincidental or surprising than yours
+
+781
+00:45:48,671 --> 00:45:54,303
+Its own pattern recognition faculties would reach the plateau and accomplishments of creative apophenia
+
+782
+00:45:56,095 --> 00:45:58,399
+Go to Seymour cray
+
+783
+00:45:58,655 --> 00:46:04,799
+Ways in which we have perceived some kind of homology between abnormal human psychology in various machine
+
+784
+00:46:05,055 --> 00:46:05,823
+Haters
+
+785
+00:46:07,103 --> 00:46:07,615
+Intro
+
+786
+00:46:08,127 --> 00:46:09,663
+Is Machine Vision paranoid
+
+787
+00:46:10,175 --> 00:46:12,479
+Is our popular understanding of Machine Vision
+
+788
+00:46:12,735 --> 00:46:13,759
+What is Google up to
+
+789
+00:46:14,015 --> 00:46:16,575
+You are they watching you and if so who or what
+
+790
+00:46:17,343 --> 00:46:18,111
+I received
+
+791
+00:46:18,879 --> 00:46:25,023
+Is our understanding of Google's paranoid Machine Vision itself paranoid making me paranoid AI that much more
+
+792
+00:46:25,279 --> 00:46:26,047
+Paranoid
+
+793
+00:46:27,327 --> 00:46:28,351
+In a word yes
+
+794
+00:46:29,631 --> 00:46:35,775
+Is this how artificial intelligence should evolve in relation to ship to and autonomously from humans
+
+795
+00:46:36,031 --> 00:46:36,543
+Elliot's
+
+796
+00:46:37,311 --> 00:46:42,175
+Where is the pattern recognition and pattern recognition human pattern recognition is any indicator
+
+797
+00:46:42,431 --> 00:46:43,967
+Bass both unproductive
+
+798
+00:46:44,223 --> 00:46:47,039
+And destructive apophenia deception and delusion
+
+799
+00:46:48,319 --> 00:46:49,087
+Then yes or no
+
+800
+00:46:53,695 --> 00:46:55,231
+Moving then back up
+
+801
+00:46:55,487 --> 00:46:56,767
+N scale to the
+
+802
+00:46:57,023 --> 00:46:59,327
+To aru machine sensing as a whole
+
+803
+00:46:59,583 --> 00:47:01,375
+At the level of the whole city
+
+804
+00:47:01,887 --> 00:47:04,447
+I'm in this redistribution of the responsible
+
+805
+00:47:05,215 --> 00:47:05,727
+Again
+
+806
+00:47:05,983 --> 00:47:09,567
+Dai City maybe embodying itself but not as
+
+807
+00:47:09,823 --> 00:47:10,847
+We do
+
+808
+00:47:11,359 --> 00:47:15,199
+Commingling a diver sensor satellite and Aaron sound chemistry girls up
+
+809
+00:47:15,455 --> 00:47:19,039
+A landscape of sensing and thinking little species
+
+810
+00:47:19,551 --> 00:47:21,343
+Partially embodied discreetly
+
+811
+00:47:21,599 --> 00:47:24,671
+One with another and partially covering body with one another
+
+812
+00:47:25,183 --> 00:47:27,999
+As their information inputs are aggregated modeled
+
+813
+00:47:28,255 --> 00:47:29,279
+After the pain
+
+814
+00:47:29,791 --> 00:47:31,071
+In various plurality
+
+815
+00:47:33,631 --> 00:47:38,495
+Homo sapiens comes equipped with an extraordinary array of sensory faculties which is we
+
+816
+00:47:38,751 --> 00:47:41,823
+Discuss maybe augmented further by synthetic layers
+
+817
+00:47:42,591 --> 00:47:47,711
+In various ratios ranging from the sensors and trackers in our phones that we carry about like meals
+
+818
+00:47:48,223 --> 00:47:52,319
+Two more intimate media of surface of artificial images in Sight and Sound
+
+819
+00:47:53,599 --> 00:47:56,159
+Situating ourselves in this expanded field
+
+820
+00:47:56,415 --> 00:47:58,975
+Again we are both sensors and sense
+
+821
+00:48:00,767 --> 00:48:06,911
+On the one hand we are primary Sapien actor in the drama supervising Orchestra of sense
+
+822
+00:48:07,167 --> 00:48:13,311
+Technology capable of functional processing in together of certain forms of aggregate emergency College
+
+823
+00:48:14,079 --> 00:48:15,359
+As stars
+
+824
+00:48:18,431 --> 00:48:23,551
+On the other we're not only the subject of the scenario we are also its subject matter
+
+825
+00:48:25,087 --> 00:48:31,231
+The Wider Urban Landscaping synthetic Century systems is not only a platform through which we extend and extract
+
+826
+00:48:31,487 --> 00:48:37,631
+Appellate are capacities for abstraction distributed cognition it's also capable of other sorts of Attraction on its own
+
+827
+00:48:39,167 --> 00:48:43,775
+Is part of its intelligence it looks at us and registers abstraction
+
+828
+00:48:44,031 --> 00:48:44,543
+About
+
+829
+00:48:46,335 --> 00:48:48,895
+Mackenzie in the city
+
+830
+00:48:49,151 --> 00:48:52,479
+But nested AI Cohen bodied as the city
+
+831
+00:48:53,503 --> 00:48:59,391
+With very different sorts of organisms to population to Gino Tanish to signal morphologies
+
+832
+00:48:59,903 --> 00:49:00,415
+At work
+
+833
+00:49:01,951 --> 00:49:02,719
+And that's the
+
+834
+00:49:02,975 --> 00:49:04,511
+Work of abstraction
+
+835
+00:49:04,767 --> 00:49:05,535
+Forward
+
+836
+00:49:05,791 --> 00:49:11,423
+What design more generally is not only to deploy abstract forms but to set in motion mechanisms
+
+837
+00:49:11,679 --> 00:49:14,239
+And programs that are capable of their own feet
+
+838
+00:49:14,751 --> 00:49:15,519
+Other traction
+
+839
+00:49:16,031 --> 00:49:18,591
+How to calibrate how they abstract us in one another
+
+840
+00:49:19,103 --> 00:49:19,615
+According
+
+841
+00:49:20,639 --> 00:49:26,783
+In short we should imagine an AI organism of different room instead of like vondelstraat stroll
+
+842
+00:49:27,039 --> 00:49:31,391
+The field populated by intermingling but neutrally oblivious little life worth
+
+843
+00:49:32,927 --> 00:49:35,743
+Origins of the losses parable of the tick
+
+844
+00:49:37,023 --> 00:49:41,119
+The later wait laying in wait for some threshold event to come its way which point
+
+845
+00:49:41,375 --> 00:49:42,399
+It's triggers
+
+846
+00:49:42,655 --> 00:49:44,447
+Programmed response sleeping out
+
+847
+00:49:44,703 --> 00:49:45,471
+Into its own
+
+848
+00:49:45,727 --> 00:49:46,495
+Little void
+
+849
+00:49:47,775 --> 00:49:51,103
+Many of our Urban sensors and their limited forms of AI
+
+850
+00:49:51,871 --> 00:49:52,895
+Work similarly
+
+851
+00:49:53,151 --> 00:49:54,431
+And was similar nobility
+
+852
+00:49:56,479 --> 00:50:02,623
+More versatile synthetic intelligence occupy more complex on felt some more predators and prey summary
+
+853
+00:50:02,879 --> 00:50:05,439
+Rocking motion summer flowering some pollinating
+
+854
+00:50:06,463 --> 00:50:10,303
+And if we stroll along then we may be registered by them or we may be ignored
+
+855
+00:50:10,815 --> 00:50:16,959
+Maybe a primary cause of concern we may be a passing interference in an evolutionary dynamic in which we are neither
+
+856
+00:50:17,215 --> 00:50:17,983
+The protagonist
+
+857
+00:50:18,495 --> 00:50:19,007
+Your target
+
+858
+00:50:21,567 --> 00:50:24,127
+And this is anyway as we might expect
+
+859
+00:50:24,639 --> 00:50:25,663
+Actually not surprised
+
+860
+00:50:25,919 --> 00:50:26,943
+Kino
+
+861
+00:50:27,199 --> 00:50:29,759
+Ships from top-down to bottom-up AI
+
+862
+00:50:30,015 --> 00:50:32,575
+Mark by shift of emphasis from
+
+863
+00:50:32,831 --> 00:50:35,647
+Intelligence is a formal syntax
+
+864
+00:50:36,415 --> 00:50:39,487
+To one of a specifically embodied relation to specific world
+
+865
+00:50:40,255 --> 00:50:40,767
+And models
+
+866
+00:50:41,535 --> 00:50:46,143
+Heuristic knowledge of habitat is seen as Inseparable from how an AI manipulates
+
+867
+00:50:46,399 --> 00:50:47,679
+Is situated problem
+
+868
+00:50:49,215 --> 00:50:51,519
+Until we bought it with a pairing of synthetic
+
+869
+00:50:51,775 --> 00:50:55,103
+Example allows for
+
+870
+00:50:55,359 --> 00:51:00,479
+Simple artificial species to perform intelligently because they have what amounts do functionally
+
+871
+00:51:00,735 --> 00:51:01,503
+Anybody
+
+872
+00:51:01,759 --> 00:51:05,087
+Perceptual relocation the world they can sink because they can see
+
+873
+00:51:09,695 --> 00:51:10,463
+D
+
+874
+00:51:10,719 --> 00:51:12,255
+The implications of all of this
+
+875
+00:51:13,535 --> 00:51:16,863
+Politics geopolitics in the rest of this as I say rotten
+
+876
+00:51:17,119 --> 00:51:17,631
+Tangled
+
+877
+00:51:17,887 --> 00:51:20,191
+Banal and various measures
+
+878
+00:51:21,215 --> 00:51:27,359
+Extension the biochemistry of climates and ecosystems to the rhetorical conventions of citizenship and sovereignty it's messy
+
+879
+00:51:27,615 --> 00:51:30,687
+Cai so we're talking about not a kind of clean and pure AI
+
+880
+00:51:31,967 --> 00:51:35,295
+Interlocking food presentation with a few
+
+881
+00:51:35,807 --> 00:51:37,343
+Admonitions
+
+882
+00:51:37,599 --> 00:51:38,367
+For the general
+
+883
+00:51:38,623 --> 00:51:39,647
+Disciplinary design
+
+884
+00:51:39,903 --> 00:51:41,951
+Brake for AI and for what we
+
+885
+00:51:42,463 --> 00:51:43,231
+My calls
+
+886
+00:51:43,999 --> 00:51:45,279
+Post anthropocene
+
+887
+00:51:48,095 --> 00:51:48,607
+It is
+
+888
+00:51:49,375 --> 00:51:50,399
+At best
+
+889
+00:51:50,655 --> 00:51:54,495
+A paradoxical accomplishment to survive a mass extinction event
+
+890
+00:51:56,031 --> 00:52:02,175
+The modern human species has the dubious distinction of gnarly observing and measuring mass extinction while it is happening but also
+
+891
+00:52:02,431 --> 00:52:06,271
+Doing so with the understanding that it is one pre of the trim and agents of that
+
+892
+00:52:08,831 --> 00:52:10,367
+It does so with the
+
+893
+00:52:11,135 --> 00:52:16,255
+Did ambivalent comfort that get that one way or another it to
+
+894
+00:52:16,511 --> 00:52:18,303
+Is unlikely to survive
+
+895
+00:52:18,559 --> 00:52:20,607
+The bloody edge of the anthropocene
+
+896
+00:52:23,167 --> 00:52:24,703
+So much to parks
+
+897
+00:52:24,959 --> 00:52:25,727
+Water rhymes
+
+898
+00:52:27,007 --> 00:52:30,335
+Simultaneously with the collapse of biodiversity
+
+899
+00:52:30,847 --> 00:52:31,615
+We also see
+
+900
+00:52:32,127 --> 00:52:37,503
+At least the trunk potential for an explosion of new quotient of species taking form through
+
+901
+00:52:37,759 --> 00:52:40,575
+Robotics and synthetic biology in artificial intelligence
+
+902
+00:52:41,599 --> 00:52:44,927
+You can't see the ladder as replacement for the former and yet
+
+903
+00:52:45,183 --> 00:52:45,951
+There they are
+
+904
+00:52:49,023 --> 00:52:52,351
+Because for example that the first or things in space
+
+905
+00:52:52,607 --> 00:52:53,375
+We're not humans
+
+906
+00:52:54,655 --> 00:52:57,983
+And the very low percentage of all or things in space have been humans
+
+907
+00:52:59,519 --> 00:53:01,311
+Human biology is needy
+
+908
+00:53:01,567 --> 00:53:02,335
+Fragile
+
+909
+00:53:02,847 --> 00:53:08,223
+Is poorly suited to space travel largely because we have to bring an entire ecosystem with us
+
+910
+00:53:08,735 --> 00:53:12,063
+Oxygen to radiation filters to the microbial biome
+
+911
+00:53:12,319 --> 00:53:14,367
+In our testing to help us digest food
+
+912
+00:53:15,135 --> 00:53:16,671
+Currently configured
+
+913
+00:53:16,927 --> 00:53:17,439
+Human
+
+914
+00:53:18,207 --> 00:53:22,815
+We cannot really believe Earth because we have to bring a miniature Earth with us
+
+915
+00:53:23,327 --> 00:53:23,839
+When we go
+
+916
+00:53:25,375 --> 00:53:31,519
+This is not true in the same way for other species which supervised comparatively easy in space such as metalloid robotics
+
+917
+00:53:31,775 --> 00:53:33,055
+Jackson perhaps also someday
+
+918
+00:53:33,311 --> 00:53:35,103
+Some kinds of synthetic biology
+
+919
+00:53:36,639 --> 00:53:42,783
+And so perhaps like the small mammals that took that fit that took over after the Cretaceous paleocene Extinction
+
+920
+00:53:43,807 --> 00:53:48,415
+They're just better suited to the very different punctuated equilibrium to come
+
+921
+00:53:48,927 --> 00:53:51,743
+They may enjoy successes that we cannot
+
+922
+00:53:52,511 --> 00:53:53,791
+Leaving us behind
+
+923
+00:53:54,303 --> 00:53:55,071
+Been stranded
+
+924
+00:53:55,839 --> 00:53:56,351
+Place
+
+925
+00:53:59,679 --> 00:54:00,191
+So what
+
+926
+00:54:00,447 --> 00:54:03,775
+Comes then after an anthropocene Extinction
+
+927
+00:54:05,055 --> 00:54:11,199
+The only thing we can know about the post and prophesying is it it's a Nira in which humans would no longer be that
+
+928
+00:54:11,455 --> 00:54:12,479
+Dominant geologic actor
+
+929
+00:54:14,527 --> 00:54:20,671
+Perhaps in New Orleans species may prove to be more fit better at making the next evolutionary step than humans are until 4
+
+930
+00:54:20,927 --> 00:54:25,023
+R Us to quote survive we may have to become more like them and less like what we are now
+
+931
+00:54:26,559 --> 00:54:31,167
+The longer view humans roll maybe that of an enabling intermediary
+
+932
+00:54:31,935 --> 00:54:33,215
+Between early primates
+
+933
+00:54:33,727 --> 00:54:38,335
+And as yet to emerge phyla that blend organic and inorganic flesh
+
+934
+00:54:38,847 --> 00:54:39,359
+NSYNC
+
+935
+00:54:41,151 --> 00:54:46,015
+This is the point of convergence between robust Ai and the Deep ecology of
+
+936
+00:54:46,271 --> 00:54:47,039
+Voluntary human
+
+937
+00:54:47,295 --> 00:54:47,807
+Extinction
+
+938
+00:54:48,063 --> 00:54:48,575
+But
+
+939
+00:54:48,831 --> 00:54:50,623
+Instead of Disappearing however
+
+940
+00:54:51,135 --> 00:54:55,487
+We may Survive by Perforating the boundaries between animal vegetable and mineral
+
+941
+00:54:57,535 --> 00:54:58,047
+Aztec design
+
+942
+00:54:58,303 --> 00:55:00,863
+Just as art design problem and design solution
+
+943
+00:55:01,887 --> 00:55:08,031
+What's the oldest age is the death of the users is a certain kind of death of a certain for humanism as any clips of ascertain
+
+944
+00:55:08,287 --> 00:55:09,311
+Resolute human
+
+945
+00:55:10,335 --> 00:55:16,479
+It does so because it brings with it also the multiplication and proliferation of other forms of non-human in human
+
+946
+00:55:16,735 --> 00:55:17,503
+EXO human
+
+947
+00:55:18,527 --> 00:55:20,575
+Agents in subjects including
+
+948
+00:55:22,623 --> 00:55:26,975
+Robots nanometric to Landscapes kill any combination of which with which
+
+949
+00:55:27,487 --> 00:55:30,303
+We may enter into a kind of relationship as a
+
+950
+00:55:30,559 --> 00:55:31,327
+Deposit
+
+951
+00:55:31,583 --> 00:55:32,095
+Subject
+
+952
+00:55:35,167 --> 00:55:41,311
+The complexities and contradictions of those Salvage in relationship to those Composites or nevertheless
+
+953
+00:55:41,567 --> 00:55:43,615
+With those causing intelligence NSAIDs after
+
+954
+00:55:44,383 --> 00:55:50,527
+Is this a work to dismember certain conventional distinctions between subject and school occupant and City
+
+955
+00:55:50,783 --> 00:55:51,551
+And so and so
+
+956
+00:55:52,319 --> 00:55:56,671
+Introduces a certain kind of a redistribution of a certain kind of
+
+957
+00:55:57,183 --> 00:55:59,231
+Agnostic universal suffrage
+
+958
+00:55:59,743 --> 00:56:03,071
+By which it what kind of matter can enter into that position and take on that
+
+959
+00:56:04,863 --> 00:56:05,887
+Cleaning a strongly
+
+960
+00:56:06,143 --> 00:56:07,679
+A different kind of strong
+
+961
+00:56:07,935 --> 00:56:08,447
+Mercurial
+
+962
+00:56:08,703 --> 00:56:09,215
+Perspective
+
+963
+00:56:09,727 --> 00:56:11,519
+Encourage more input we anticipate
+
+964
+00:56:11,775 --> 00:56:12,799
+Without a doubt
+
+965
+00:56:13,823 --> 00:56:14,591
+But as this
+
+966
+00:56:14,847 --> 00:56:16,383
+Asterisk works itself out
+
+967
+00:56:16,895 --> 00:56:22,271
+As a disenchantment unfolds that it there would we went dissipate all manner of pushback
+
+968
+00:56:23,039 --> 00:56:25,087
+Against this demystified in Demonite
+
+969
+00:56:26,367 --> 00:56:31,999
+Natalie distaste for certain forms of quantification and preference for romantic verse for example
+
+970
+00:56:32,511 --> 00:56:37,631
+Put a bull work on behalf of what amounts to a pre copernican and deeply reactionary humanist exception
+
+971
+00:56:38,655 --> 00:56:39,935
+Even a human is fundamental
+
+972
+00:56:42,751 --> 00:56:48,895
+I push back as they say it's broken and perhaps is raschke rational that is certain affinity
+
+973
+00:56:49,151 --> 00:56:55,295
+Certain Technologies however fictitious or bizarre that's Kennedy's maybe they're thought to embody the essence of a kind of cry
+
+974
+00:56:55,551 --> 00:56:57,087
+Directions to order one of these days
+
+975
+00:56:57,343 --> 00:56:57,855
+Food
+
+976
+00:56:58,879 --> 00:57:02,207
+Extend its influence of technology to Personal Mastery sex
+
+977
+00:57:02,463 --> 00:57:02,975
+Car
+
+978
+00:57:06,559 --> 00:57:12,703
+Google X was beginning to work on the driver there driverless car project I want to come visit at the labs if there was a student
+
+979
+00:57:12,959 --> 00:57:13,983
+And mine who is not working on that
+
+980
+00:57:15,775 --> 00:57:19,615
+Meeting with him is until you guys must have heard a lot of different kind of strange
+
+981
+00:57:20,383 --> 00:57:22,687
+Strange ideas about what the driverless car system
+
+982
+00:57:22,943 --> 00:57:23,455
+Going to
+
+983
+00:57:23,711 --> 00:57:25,759
+Amount to in about what is a pushback from
+
+984
+00:57:26,015 --> 00:57:28,063
+Well
+
+985
+00:57:28,575 --> 00:57:31,135
+It's funny you should ask if they pull up this piece of paper with
+
+986
+00:57:31,391 --> 00:57:33,439
+Attention to file
+
+987
+00:57:33,695 --> 00:57:37,023
+Potential file preemptive legal notices something which is far as I can tell this
+
+988
+00:57:37,279 --> 00:57:38,047
+Completely made up
+
+989
+00:57:38,559 --> 00:57:39,327
+Document
+
+990
+00:57:39,583 --> 00:57:42,143
+From the group called gunownersofamerica
+
+991
+00:57:42,399 --> 00:57:45,471
+Which is an advocacy group a bit to the right of the net of the NRA
+
+992
+00:57:47,263 --> 00:57:53,407
+And if you remember that in United States alone roughly about 30,000 people a year are killed in car accidents butts
+
+993
+00:57:53,663 --> 00:57:59,295
+28000 the year of those are directly attributable to human driver error and so with driverless cars could kill
+
+994
+00:58:00,063 --> 00:58:02,111
+27000 people a year or less
+
+995
+00:58:03,135 --> 00:58:04,415
+They would still PA
+
+996
+00:58:04,671 --> 00:58:10,815
+From Shirley consequentialist view of ethical
+
+997
+00:58:11,071 --> 00:58:15,167
+For purposes of President putting a human behind the wheel is just
+
+998
+00:58:15,423 --> 00:58:16,703
+Too great of a risk
+
+999
+00:58:16,959 --> 00:58:19,007
+Unethical to put everyone else's
+
+1000
+00:58:22,591 --> 00:58:23,615
+That makes sense
+
+1001
+00:58:23,871 --> 00:58:26,687
+What does legal thing was with this document things that you should
+
+1002
+00:58:26,943 --> 00:58:29,503
+It become illegal for humans to drive a car
+
+1003
+00:58:30,271 --> 00:58:34,879
+In this way that they will see to have automobiles reclassified as ammunition
+
+1004
+00:58:35,391 --> 00:58:40,767
+And thereby covered by the 2nd Amendment to the Constitution which guarantees the right to bear arms in this case
+
+1005
+00:58:41,023 --> 00:58:41,535
+A car
+
+1006
+00:58:47,679 --> 00:58:48,447
+Or
+
+1007
+00:58:48,703 --> 00:58:54,847
+But this way you would like maybe ended by someone in case in a 2-ton steel box careening down the asphalt trying to
+
+1008
+00:58:55,103 --> 00:58:58,687
+To prove a point about his how technology will never capture his natural Humana
+
+1009
+00:59:02,527 --> 00:59:08,671
+All of this is not without real risk we anticipate that this distribution of
+
+1010
+00:59:08,927 --> 00:59:13,791
+Apperception and Co embodiment implied by Senpai I at the urban scale wood
+
+1011
+00:59:15,839 --> 00:59:21,983
+If we are tempted in persistent shift and expand what we take to be an ethics of shelter and Encounter of negotiate
+
+1012
+00:59:22,239 --> 00:59:23,007
+Haitian and even
+
+1013
+00:59:23,519 --> 00:59:24,799
+Immunity
+
+1014
+00:59:25,055 --> 00:59:26,079
+And in this D
+
+1015
+00:59:26,335 --> 00:59:28,639
+Modern era form of proven anime
+
+1016
+00:59:29,151 --> 00:59:35,295
+May pale in comparison to the challenges of predator-prey camouflage dissimulation relationships implied by
+
+1017
+00:59:35,551 --> 00:59:36,575
+Emergence of various
+
+1018
+00:59:37,087 --> 00:59:38,623
+Alien lines in urban scale
+
+1019
+00:59:39,647 --> 00:59:43,487
+Negotiating our way to a livable posting prophecy necessitates
+
+1020
+00:59:43,743 --> 00:59:46,559
+However I still argue a Fidelity to emergency
+
+1021
+00:59:47,327 --> 00:59:48,095
+Not to emergency
+
+1022
+00:59:49,887 --> 00:59:51,423
+Because copernican traumas
+
+1023
+00:59:52,191 --> 00:59:57,055
+Abolish the false centrality and specialness of human thought and species being
+
+1024
+00:59:57,311 --> 00:59:58,591
+Are priceless
+
+1025
+00:59:58,847 --> 00:59:59,359
+Accomplishment
+
+1026
+01:00:01,407 --> 01:00:04,223
+The Advent of robust in human AI
+
+1027
+01:00:04,479 --> 01:00:10,623
+Could provide for similar disenchantments one that should enable a more reality-based understanding of ourselves
+
+1028
+01:00:10,879 --> 01:00:12,671
+Algebra situation and Fuller
+
+1029
+01:00:13,183 --> 01:00:19,327
+And more complex and nuanced understanding of what intelligence is what's thinking is and is not
+
+1030
+01:00:20,351 --> 01:00:21,119
+From there
+
+1031
+01:00:21,375 --> 01:00:24,447
+We can hopefully make our world with greater confidence
+
+1032
+01:00:24,959 --> 01:00:27,263
+There are models are good approximation
+
+1033
+01:00:27,519 --> 01:00:28,287
+Out there
+
+1034
+01:00:29,055 --> 01:00:29,567
+Always
+
+1035
+01:00:32,383 --> 01:00:36,735
+An additional harm and did not unusual harm of the alternative to that
+
+1036
+01:00:37,503 --> 01:00:43,135
+Is in perpetuating a relationship to technology that has brought us to the precipice of a six
+
+1037
+01:00:43,647 --> 01:00:44,415
+Great Extinction
+
+1038
+01:00:45,439 --> 01:00:46,719
+Arguably
+
+1039
+01:00:46,975 --> 01:00:53,119
+50 and throughout the scene itself is due less to technology run amok then to the human is Legacy that
+
+1040
+01:00:53,375 --> 01:00:57,215
+Who stands the world is having been given for our needs and created in our image
+
+1041
+01:00:58,751 --> 01:01:00,031
+We still see this everywhere
+
+1042
+01:01:00,287 --> 01:01:04,895
+Are Computing culture very deeply confused and so and it is so along the same line
+
+1043
+01:01:06,687 --> 01:01:12,831
+Vacillate between thinking technology at the transparent extension of our desires on the one hand and I'm thinking of it as a nun stop
+
+1044
+01:01:13,087 --> 01:01:14,879
+Stop a boil in your historical force on the other
+
+1045
+01:01:15,903 --> 01:01:20,511
+For the first agencies magically ours alone and for the second agencies all in the code
+
+1046
+01:01:21,279 --> 01:01:23,839
+That's gross inflation of the former is really inverted
+
+1047
+01:01:24,095 --> 01:01:25,375
+Back into the other
+
+1048
+01:01:25,887 --> 01:01:27,167
+And this is why we can't have nice
+
+1049
+01:01:29,727 --> 01:01:34,335
+Well known get sloppy in the world of design recently wrote killing remain nameless
+
+1050
+01:01:34,847 --> 01:01:40,223
+It's time to invert invent world war machines are subservient to the needs and wishes of humanity
+
+1051
+01:01:42,783 --> 01:01:43,551
+Simply dressed
+
+1052
+01:01:45,343 --> 01:01:46,623
+If you think so
+
+1053
+01:01:46,879 --> 01:01:48,159
+I invite you to Google
+
+1054
+01:01:48,415 --> 01:01:49,951
+Pig decapitating machine
+
+1055
+01:01:50,463 --> 01:01:54,559
+And then let's talk about inventing world see which machines are holy subservience
+
+1056
+01:01:54,815 --> 01:01:55,327
+The human race
+
+1057
+01:01:56,863 --> 01:02:03,007
+One wonders whether it's only from a society that one skate theological and legislative Comfort to chattel slavery
+
+1058
+01:02:03,263 --> 01:02:04,799
+This particular client could be offered
+
+1059
+01:02:05,311 --> 01:02:05,823
+What's up
+
+1060
+01:02:06,079 --> 01:02:07,359
+Satisfied naivete
+
+1061
+01:02:08,639 --> 01:02:14,783
+This is the sentiment this philosophy of Technology exactly that is the basic algorithm Panther the scenic route
+
+1062
+01:02:15,295 --> 01:02:16,319
+Time to move on
+
+1063
+01:02:17,343 --> 01:02:18,879
+This pretentious folklore
+
+1064
+01:02:19,391 --> 01:02:20,415
+Is too expensive
+
+1065
+01:02:23,487 --> 01:02:23,999
+And so
+
+1066
+01:02:26,047 --> 01:02:32,191
+Differently please to make technology serve humans and serve human needs and desires requirements appear
+
+1067
+01:02:32,447 --> 01:02:34,495
+Utterly misguided and even suicidal
+
+1068
+01:02:36,031 --> 01:02:38,335
+Staring upon the events of mass extinction
+
+1069
+01:02:38,591 --> 01:02:40,639
+We hear the drearily common refrain
+
+1070
+01:02:40,895 --> 01:02:42,687
+Variously explicit or latent
+
+1071
+01:02:43,455 --> 01:02:49,087
+That identifies called modern technology as the main culprit in conclusion that the most fundamental solution
+
+1072
+01:02:49,599 --> 01:02:51,391
+If UD technology is a planet
+
+1073
+01:02:51,647 --> 01:02:53,439
+Into rehumanize yourself
+
+1074
+01:02:54,207 --> 01:02:55,999
+One presupposes the other in various measures
+
+1075
+01:02:56,767 --> 01:02:58,047
+This is among the worst
+
+1076
+01:02:58,303 --> 01:02:58,815
+Possible
+
+1077
+01:02:59,071 --> 01:02:59,583
+Plans
+
+1078
+01:02:59,839 --> 01:03:00,863
+Philosophically
+
+1079
+01:03:01,119 --> 01:03:01,631
+And practice
+
+1080
+01:03:03,167 --> 01:03:05,215
+First Stitch tragically def
+
+1081
+01:03:05,727 --> 01:03:09,311
+To the Priceless copernican trauma of the anthropogenic precipice
+
+1082
+01:03:10,335 --> 01:03:13,663
+Then our status as a dominant geologic actor is fleeting
+
+1083
+01:03:13,919 --> 01:03:18,783
+So in order to survive we would have to become somebody that it's not necessarily recognizably human
+
+1084
+01:03:19,551 --> 01:03:23,135
+And second process of a psychotic misrepresentation with humans
+
+1085
+01:03:23,391 --> 01:03:24,415
+And humanism
+
+1086
+01:03:24,927 --> 01:03:25,695
+Actually are
+
+1087
+01:03:26,207 --> 01:03:29,023
+We are the brain eating eggs with weaponized hydrogen
+
+1088
+01:03:30,047 --> 01:03:33,375
+Organizer societies according to Bronze Age poetry
+
+1089
+01:03:33,887 --> 01:03:36,447
+On human sacrifice and ritual purification
+
+1090
+01:03:38,239 --> 01:03:40,799
+Among the last projects to support
+
+1091
+01:03:41,311 --> 01:03:45,663
+Esri humanization in any sense of a direct return to historical norms
+
+1092
+01:03:47,199 --> 01:03:48,735
+I think the other species would agree
+
+1093
+01:03:51,551 --> 01:03:53,087
+The last reason why do desire
+
+1094
+01:03:55,647 --> 01:04:01,535
+How do we map with a certain technological material to compensate as a theory of subjectivity against the tropes
+
+1095
+01:04:01,791 --> 01:04:03,327
+But with the tropes of Heroes
+
+1096
+01:04:06,143 --> 01:04:06,655
+Tricky
+
+1097
+01:04:07,935 --> 01:04:09,727
+Troy barely had Darwin
+
+1098
+01:04:09,983 --> 01:04:16,127
+To work with let alone genetics and genomics and so she probably repeating some of those terms you're probably a little bit ly
+
+1099
+01:04:17,151 --> 01:04:17,919
+Reese the Greek
+
+1100
+01:04:19,455 --> 01:04:20,991
+Organic versus inorganic
+
+1101
+01:04:21,247 --> 01:04:23,295
+That is whether something is alive or not alive
+
+1102
+01:04:23,807 --> 01:04:26,367
+Kind of the minor is sort of a minor issue
+
+1103
+01:04:26,623 --> 01:04:28,927
+Something having or not having a carbon molecule
+
+1104
+01:04:31,999 --> 01:04:36,607
+Is it the same any any melting back into the inorganic instead of tonic and pull
+
+1105
+01:04:36,863 --> 01:04:39,423
+Interview over comment overwhelmed by
+
+1106
+01:04:39,679 --> 01:04:44,287
+In absorbed by matter itself may be a way of encountering and even Desiring death
+
+1107
+01:04:44,543 --> 01:04:45,055
+Perhaps
+
+1108
+01:04:45,823 --> 01:04:48,895
+He's also in many ways a very everyday kind of occurrence
+
+1109
+01:04:50,431 --> 01:04:56,575
+It's not a sad Destiny to The Interlopers Indian matter and other diagram and other diagrams for that disc
+
+1110
+01:04:56,831 --> 01:04:58,623
+Solution of possible but anatomic
+
+1111
+01:04:58,879 --> 01:04:59,647
+An economic
+
+1112
+01:05:00,927 --> 01:05:02,207
+The human body
+
+1113
+01:05:02,719 --> 01:05:06,303
+And this Earthly landscape of matter are only the default settings
+
+1114
+01:05:06,815 --> 01:05:07,327
+The knot
+
+1115
+01:05:07,839 --> 01:05:08,351
+Destiny
+
+1116
+01:05:09,631 --> 01:05:13,983
+Chemistry may drive the most radical forms of the philosophical imaginary to
+
+1117
+01:05:15,263 --> 01:05:16,543
+A culinary materialism
+
+1118
+01:05:18,591 --> 01:05:20,127
+Rubbing the clinamen Raw
+
+1119
+01:05:22,687 --> 01:05:28,831
+Until he remember algorithms For Whining evolution of vision Returns the primordial function of
+
+1120
+01:05:29,087 --> 01:05:29,855
+Scanning the landscape
+
+1121
+01:05:30,111 --> 01:05:30,623
+Food
+
+1122
+01:05:30,879 --> 01:05:31,391
+Pho
+
+1123
+01:05:31,903 --> 01:05:33,695
+I'm going to thinking relationship to that man
+
+1124
+01:05:37,535 --> 01:05:39,839
+Some alternatives
+
+1125
+01:05:40,095 --> 01:05:41,887
+Do this anyway I think make the
+
+1126
+01:05:42,143 --> 01:05:43,167
+Inevitable
+
+1127
+01:05:43,423 --> 01:05:49,567
+Whether we wanted to or not geoengineering project it really actually constitutes the Eco geopolitics released at 1
+
+1128
+01:05:49,823 --> 01:05:51,359
+That is either
+
+1129
+01:05:52,127 --> 01:05:58,271
+Is qualified a priority as a metaphysical atrocity or something that will simply sort itself
+
+1130
+01:05:58,527 --> 01:06:00,575
+Automatically by the Invisible Hand of Moore's Law
+
+1131
+01:06:02,367 --> 01:06:03,135
+The former
+
+1132
+01:06:03,391 --> 01:06:09,535
+Is animated in various sizes by a kind of mystical primitive primitivism that is to me the field logic Express
+
+1133
+01:06:09,791 --> 01:06:11,327
+Russian of the mode of global
+
+1134
+01:06:11,583 --> 01:06:13,631
+Dwelling that sees the world is here for us
+
+1135
+01:06:14,399 --> 01:06:17,727
+Based on the fetishization of Human Experience of Human Experience
+
+1136
+01:06:17,983 --> 01:06:21,567
+Priority over the materiality of the emergent intelligence
+
+1137
+01:06:22,591 --> 01:06:26,687
+Again it is this humanist exceptionalism that is the exact recipe for anthem
+
+1138
+01:06:27,967 --> 01:06:32,063
+Predicament
+
+1139
+01:06:34,111 --> 01:06:40,255
+In this fetishization of the experience of experience as of it as an authentic interiority for one
+
+1140
+01:06:40,511 --> 01:06:46,655
+For The Psychotic proposition is somehow the self is a stable physical entity that can be expanded exponentially by the fairies from
+
+1141
+01:06:46,911 --> 01:06:51,519
+The complications out exploding into some fractal plurality as for the singularity people
+
+1142
+01:06:52,287 --> 01:06:57,663
+Both of these make that geoengineering project much more difficult than what it is make it harder to recognize it for what it is
+
+1143
+01:06:58,943 --> 01:06:59,967
+Some of it is more like
+
+1144
+01:07:00,223 --> 01:07:03,039
+Molecular Gastronomy at landscape scale
+
+1145
+01:07:04,063 --> 01:07:08,671
+I resorted and Reese and been restored ecology designed to taste itself
+
+1146
+01:07:09,439 --> 01:07:13,023
+The new forms of Richmond spiced and imaginatively sauce
+
+1147
+01:07:13,535 --> 01:07:14,303
+Mutual in chest
+
+1148
+01:07:16,607 --> 01:07:17,375
+Last word
+
+1149
+01:07:18,399 --> 01:07:24,543
+Unless I misunderstood to recommend too much of today's computational cultures is model for the AI design them
+
+1150
+01:07:24,799 --> 01:07:30,943
+Sketching out on by misquoting a sentence the McDonald's minimum Aralia substituting the word smart cities for his original
+
+1151
+01:07:31,199 --> 01:07:32,223
+Topic of Escapist Cinema
+
+1152
+01:07:34,783 --> 01:07:40,927
+It is not because they turn their back on washed-out existence that smart cities are so repugnant but because they do not do so enter
+
+1153
+01:07:41,183 --> 01:07:41,951
+Ethically and nuts
+
+1154
+01:07:42,719 --> 01:07:46,815
+Because they are themselves just as washed out because the satisfactions they fake
+
+1155
+01:07:47,071 --> 01:07:49,119
+Coincide with the enemy of denial
+
+1156
+01:07:49,631 --> 01:07:50,399
+Dreams
+
+1157
+01:07:50,655 --> 01:07:51,423
+Have no dreams
